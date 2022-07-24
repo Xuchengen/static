@@ -21,7 +21,3 @@ services:
       - 10909:10909
       - 10911:10911
       - 10912:10912
-    
-    volumes:
-      - "/var/run/docker.sock:/var/run/docker.sock"
-      - "~/rocketmq_data:/home/app/data"
