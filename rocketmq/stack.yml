@@ -24,5 +24,4 @@ services:
     
     volumes:
       - "/var/run/docker.sock:/var/run/docker.sock"
-      - "/etc/localtime:/etc/localtime"
       - "~/rocketmq_data:/home/app/data"
