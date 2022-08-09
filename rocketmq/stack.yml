@@ -3,7 +3,6 @@ version: '3.1'
 services:
 
   rocketmq:
-    container_name: rocketmq
     image: xuchengen/rocketmq:latest
     restart: always
     environment:
