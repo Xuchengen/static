@@ -1,6 +1,7 @@
 payload:
- - DOMAIN,tscdn.hyz1.top
- - DOMAIN,tscdn.tdweilai.top
- - DOMAIN-SUFFIX,pronhub.com
+ - DOMAIN-SUFFIX,hyz1.top
+ - DOMAIN-SUFFIX,tdweilai.top
+ - DOMAIN-SUFFIX,datuniu.com
  - DOMAIN-SUFFIX,t66y.com
+ - DOMAIN-SUFFIX,pronhub.com
  - DOMAIN-SUFFIX,jinshuzhijia.com
