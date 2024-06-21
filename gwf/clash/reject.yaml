@@ -14,6 +14,18 @@ payload:
  - DOMAIN-SUFFIX,thepiratebay.org
  - DOMAIN-SUFFIX,btchina.net
  - DOMAIN-SUFFIX,torproject.org
+ - DOMAIN-SUFFIX,speedtest.net
+ - DOMAIN-SUFFIX,speedtest.cn
+ - DOMAIN-SUFFIX,librespeed.cn
+ - DOMAIN-SUFFIX,fast.com
+ - DOMAIN-SUFFIX,test.ustc.edu.cn
+ - DOMAIN-SUFFIX,speed.neu.edu.cn
+ - DOMAIN-SUFFIX,speedtest.shu.edu.cn
+ - DOMAIN-SUFFIX,speed.nuaa.edu.cn
+ - DOMAIN-SUFFIX,speedtest.zju.edu.cn
+ - DOMAIN-SUFFIX,speedtest.sec.edu.cn
+ - DOMAIN-SUFFIX,speed.hfut.edu.cn
+ - DOMAIN-SUFFIX,speed5.ntu.edu.tw
  - DOMAIN-SUFFIX,avpaihang.com
  - DOMAIN-SUFFIX,pincong.rocks
  - DOMAIN-SUFFIX,epochtimes.com
