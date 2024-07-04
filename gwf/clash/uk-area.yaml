@@ -3,3 +3,6 @@ payload:
  - DOMAIN-SUFFIX,monzo.me
  - DOMAIN-SUFFIX,monzo-alt.net
  - DOMAIN-SUFFIX,nonprod-ffs.io
+ - DOMAIN-SUFFIX,braze.eu
+ - DOMAIN-SUFFIX,uk
+ - GEOIP,GB
