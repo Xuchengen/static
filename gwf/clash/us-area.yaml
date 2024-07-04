@@ -1,2 +1,4 @@
 payload:
- - DOMAIN-SUFFIX,ffffffffffffffff.com
+ - DOMAIN-SUFFIX,gov
+ - DOMAIN-SUFFIX,mil
+ - DOMAIN-SUFFIX,us
