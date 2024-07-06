@@ -5,4 +5,3 @@ payload:
  - DOMAIN-SUFFIX,nonprod-ffs.io
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,uk
- - GEOIP,GB
