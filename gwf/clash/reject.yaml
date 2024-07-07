@@ -45,6 +45,7 @@ payload:
  - DOMAIN-SUFFIX,minghui.org
  - DOMAIN-SUFFIX,chinadigitaltimes.net
  - DOMAIN-SUFFIX,traffmonetizer.com
+ - DOMAIN-SUFFIX,youtube.com
  - DOMAIN-SUFFIX,netflix.com
  - DOMAIN-SUFFIX,disneyplus.com
  - DOMAIN-SUFFIX,bilibili.com
