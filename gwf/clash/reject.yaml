@@ -54,6 +54,8 @@ payload:
  - DOMAIN-SUFFIX,renminbao.com
  - DOMAIN-SUFFIX,minghui.org
  - DOMAIN-SUFFIX,falundafa.org
+ - DOMAIN-SUFFIX,2008xianzhang.info
+ - DOMAIN-SUFFIX,lingbaxianzhang.blogspot.com
  - DOMAIN-SUFFIX,gov.tw
  - DOMAIN-SUFFIX,dpp.org.tw
  - DOMAIN-SUFFIX,tibet.net
@@ -65,6 +67,8 @@ payload:
  - DOMAIN-SUFFIX,netflix.com
  - DOMAIN-SUFFIX,disneyplus.com
  - DOMAIN-SUFFIX,bilibili.com
+ - DOMAIN-SUFFIX,gamer.com.tw
+ - DOMAIN-SUFFIX,twitch.tv
  - DOMAIN-SUFFIX,ffzy1.tv
  - DOMAIN-SUFFIX,ffzy2.tv
  - DOMAIN-SUFFIX,ffzy3.tv
