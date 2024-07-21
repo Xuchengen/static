@@ -5,4 +5,6 @@ payload:
  - DOMAIN-SUFFIX,nonprod-ffs.io
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,zilch.com
+ - DOMAIN-SUFFIX,payzilch.com
+ - DOMAIN-SUFFIX,loqbox.com
  - DOMAIN-SUFFIX,uk
