@@ -1,4 +1,6 @@
 payload:
+ - DOMAIN-SUFFIX,pan.baidu.com
+ - DOMAIN-SUFFIX,pcs.baidu.com
  - DOMAIN-SUFFIX,hyz1.top
  - DOMAIN-SUFFIX,tdweilai.top
  - DOMAIN-SUFFIX,datuniu.com
