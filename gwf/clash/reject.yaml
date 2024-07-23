@@ -1,5 +1,10 @@
 payload:
+ - DOMAIN-SUFFIX,115.com
+ - DOMAIN-SUFFIX,ctfile.com
+ - DOMAIN-SUFFIX,ilanzou.com
+ - DOMAIN-SUFFIX,woozooo.com
  - DOMAIN-SUFFIX,alipan.com
+ - DOMAIN-SUFFIX,pan.xunlei.com
  - DOMAIN-SUFFIX,pan.baidu.com
  - DOMAIN-SUFFIX,pcs.baidu.com
  - DOMAIN-SUFFIX,hyz1.top
