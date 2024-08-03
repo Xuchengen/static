@@ -9,6 +9,7 @@ payload:
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
+ - DOMAIN-SUFFIX,tktn.me
  - DOMAIN-SUFFIX,talkatone.com
  - IP-CIDR,69.46.75.0/24
  - IP-CIDR,50.117.27.0/24
