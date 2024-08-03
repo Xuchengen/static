@@ -7,3 +7,18 @@ payload:
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
+ - DOMAIN-SUFFIX,tktn.be
+ - DOMAIN-SUFFIX,tktn.at
+ - DOMAIN-SUFFIX,agkn.com
+ - DOMAIN-SUFFIX,tenor.com
+ - DOMAIN-SUFFIX,inmobi.com
+ - DOMAIN-SUFFIX,cohere.com
+ - DOMAIN-SUFFIX,ip-api.com
+ - DOMAIN-SUFFIX,kochava.com
+ - DOMAIN-SUFFIX,talkatone.com
+ - DOMAIN-SUFFIX,mobilefuse.com
+ - DOMAIN-SUFFIX,crashlytics.com
+ - IP-CIDR,69.46.75.0/24
+ - IP-CIDR,50.117.27.0/24
+ - IP-CIDR,63.251.124.0/24
+ - IP-CIDR,205.164.56.0/24
