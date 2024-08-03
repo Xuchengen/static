@@ -3,3 +3,6 @@ payload:
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
  - DOMAIN-SUFFIX,us
+ - GEOIP,US
+ - GEOIP,UM
+ - GEOIP,CA
