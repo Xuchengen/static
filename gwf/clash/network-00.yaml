@@ -3,5 +3,6 @@ payload:
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
+ - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
