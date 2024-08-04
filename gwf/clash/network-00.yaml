@@ -6,6 +6,7 @@ payload:
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,baidu.com
  - DOMAIN-SUFFIX,ucweb.com
+ - DOMAIN-SUFFIX,aliapp.org
  - DOMAIN-SUFFIX,alicdn.com
  - DOMAIN-SUFFIX,alipay.com
  - DOMAIN-SUFFIX,taobao.com
