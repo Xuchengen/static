@@ -9,6 +9,7 @@ payload:
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,githubusercontent.com
+ - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,hpeprint.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
