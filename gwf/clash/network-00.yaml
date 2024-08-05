@@ -3,7 +3,6 @@ payload:
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
- - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,baidu.com
  - DOMAIN-SUFFIX,ucweb.com
  - DOMAIN-SUFFIX,aliapp.org
@@ -18,12 +17,14 @@ payload:
  - DOMAIN-SUFFIX,aliyun.com
  - DOMAIN-SUFFIX,aliyuncs.com
  - DOMAIN-SUFFIX,alibaba.com
- - DOMAIN-SUFFIX,microsoft.com
+ - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
- - DOMAIN-SUFFIX,githubusercontent.com
- - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,windows.com
+ - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,hpeprint.com
+ - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
