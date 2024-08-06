@@ -24,6 +24,8 @@ payload:
  - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,hpeprint.com
  - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,apps.apple.com
+ - DOMAIN-SUFFIX,itunes.apple.com
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
