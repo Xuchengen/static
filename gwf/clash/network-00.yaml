@@ -22,10 +22,12 @@ payload:
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,windows.com
- - DOMAIN-SUFFIX,microsoft.com
+ - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,hpeprint.com
- - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,falabella.tech
+ - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,tktn.be
