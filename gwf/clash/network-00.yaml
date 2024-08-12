@@ -5,31 +5,53 @@ payload:
  - DOMAIN-SUFFIX,xuchengen.eu.org
  - DOMAIN-SUFFIX,baidu.com
  - DOMAIN-SUFFIX,ucweb.com
- - DOMAIN-SUFFIX,aliapp.org
+ - DOMAIN-SUFFIX,mmstat.com
+ - DOMAIN-SUFFIX,youdao.com
+ - DOMAIN-SUFFIX,taobao.com
  - DOMAIN-SUFFIX,alicdn.com
  - DOMAIN-SUFFIX,alipay.com
- - DOMAIN-SUFFIX,taobao.com
- - DOMAIN-SUFFIX,mmstat.com
+ - DOMAIN-SUFFIX,aliyun.com
+ - DOMAIN-SUFFIX,aliapp.org
  - DOMAIN-SUFFIX,effirst.com
  - DOMAIN-SUFFIX,baomitu.com
- - DOMAIN-SUFFIX,youdao.com
- - DOMAIN-SUFFIX,dingtalk.com
- - DOMAIN-SUFFIX,aliyun.com
- - DOMAIN-SUFFIX,aliyuncs.com
  - DOMAIN-SUFFIX,alibaba.com
+ - DOMAIN-SUFFIX,dingtalk.com
+ - DOMAIN-SUFFIX,aliyuncs.com
  - DOMAIN-SUFFIX,wise.com
+ - DOMAIN-SUFFIX,sirv.com
+ - DOMAIN-SUFFIX,imgix.net
+ - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,apple.com
+ - DOMAIN-SUFFIX,kraken.io
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,github.com
+ - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,windows.com
+ - DOMAIN-SUFFIX,imagekit.io
+ - DOMAIN-SUFFIX,cloudimg.io
+ - DOMAIN-SUFFIX,tinypng.com
+ - DOMAIN-SUFFIX,tinyjpg.com
  - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,hpeprint.com
+ - DOMAIN-SUFFIX,ucarecdn.com
+ - DOMAIN-SUFFIX,aspnetcdn.com
  - DOMAIN-SUFFIX,microsoft.com
+ - DOMAIN-SUFFIX,amazonaws.com
+ - DOMAIN-SUFFIX,wasabisys.com
  - DOMAIN-SUFFIX,falabella.tech
  - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,bootswatch.com
+ - DOMAIN-SUFFIX,cloudinary.com
+ - DOMAIN-SUFFIX,fontawesome.com
  - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,appdomain.cloud
+ - DOMAIN-SUFFIX,oraclecloud.com
+ - DOMAIN-SUFFIX,getbootstrap.com
+ - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
+ - DOMAIN-SUFFIX,filestackcontent.com
  - DOMAIN-SUFFIX,githubusercontent.com
+ - DOMAIN-SUFFIX,digitaloceanspaces.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
