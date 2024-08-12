@@ -12,6 +12,7 @@ payload:
  - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,freetrade.io
  - DOMAIN-SUFFIX,excelon.io
+ - DOMAIN-SUFFIX,guavapay.com
  - DOMAIN-SUFFIX,uk
  - GEOIP,GB
  - GEOIP,DE
