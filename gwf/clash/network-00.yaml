@@ -25,6 +25,8 @@ payload:
  - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,hpeprint.com
  - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,falabella.tech
+ - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
