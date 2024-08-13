@@ -23,8 +23,9 @@ payload:
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,kraken.io
- - DOMAIN-SUFFIX,docker.com
+ - DOMAIN-SUFFIX,github.io
  - DOMAIN-SUFFIX,github.com
+ - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,imagekit.io
