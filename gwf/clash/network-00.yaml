@@ -56,6 +56,7 @@ payload:
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
  - DOMAIN-SUFFIX,talkatone.com
+ - DOMAIN-REGEX,^(cdn|static|assets|viedo|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download)\.[^.]+\..+$
  - IP-ASN,714
  - IP-ASN,13414
  - IP-ASN,35995
