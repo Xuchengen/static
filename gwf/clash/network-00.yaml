@@ -31,6 +31,7 @@ payload:
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,tinypng.com
  - DOMAIN-SUFFIX,tinyjpg.com
+ - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,hpeprint.com
  - DOMAIN-SUFFIX,ucarecdn.com
@@ -42,6 +43,7 @@ payload:
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
  - DOMAIN-SUFFIX,cloudinary.com
+ - DOMAIN-SUFFIX,argotunnel.com
  - DOMAIN-SUFFIX,fontawesome.com
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,appdomain.cloud
@@ -50,13 +52,17 @@ payload:
  - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
+ - DOMAIN-SUFFIX,cloudflareclient.com
+ - DOMAIN-SUFFIX,cloudflareaccess.com
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,digitaloceanspaces.com
+ - DOMAIN-SUFFIX,cloudflareresearch.com
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
  - DOMAIN-SUFFIX,talkatone.com
  - DOMAIN-REGEX,^(cdn|static|assets|viedo|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download)\.[^.]+\..+$
+ - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  - IP-ASN,714
  - IP-ASN,13414
  - IP-ASN,35995
