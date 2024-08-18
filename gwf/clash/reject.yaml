@@ -105,5 +105,6 @@ payload:
  - DOMAIN-SUFFIX,ffzy-online5.com
  - DOMAIN-SUFFIX,ffzy-online6.com
  - DOMAIN-SUFFIX,ffzy-online7.com
+ - DOMAIN-SUFFIX,ffzy-video.com
  - DOMAIN-SUFFIX,lyhuicheng.com
  - DST-PORT,6881-6889/6969
