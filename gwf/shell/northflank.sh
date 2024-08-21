@@ -14,7 +14,7 @@ git config --global user.email "$GITHUB_EMAIL"
 cd /root
 
 # 克隆代码
-GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b us git@github.com:Xuchengen/northflank.git
+GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITORY_BRANCH $GITHUB_REPOSITORY
 
 # 启动哪吒agent
 /root/northflank/nezha/nezha-agent.sh &
