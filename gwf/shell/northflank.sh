@@ -1,7 +1,9 @@
 #!/bin/sh
 
-while true
-do
-  echo "Hello, world!"
-  sleep 5
-done
+# 安装openssh
+apk add openssh
+
+# 启动哪吒agent
+# /root/northflank/nezha/nezha-agent.sh &
+
+tail -f /dev/null
