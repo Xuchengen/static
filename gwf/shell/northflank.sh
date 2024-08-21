@@ -3,5 +3,4 @@
 # 更新索引
 apk update
 
-# 安装CURL命令
-apk add curl
+echo '123' > 1.txt
