@@ -30,6 +30,6 @@ GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITOR
 /root/northflank/ttyd/ttyd.sh &
 
 # 启动xray
-/root/northflank/xray/x-ui.sh &
+/root/northflank/xray/xray.sh &
 
 tail -f /dev/null
