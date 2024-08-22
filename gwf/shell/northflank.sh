@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 安装openssh
-apk add openssh
+apk add openssh htop
 
 # 变更文件权限
 chmod 600 /root/.ssh/id_ed25519
@@ -24,5 +24,8 @@ GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITOR
 
 # 启动ttyd
 /root/northflank/ttyd/ttyd.sh &
+
+# 启动xray
+/root/northflank/xray/x-ui.sh &
 
 tail -f /dev/null
