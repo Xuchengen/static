@@ -19,4 +19,10 @@ GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITOR
 # 启动哪吒agent
 /root/northflank/nezha/nezha-agent.sh &
 
+# 启动赛博佛祖
+/root/northflank/cloudflare/cloudflared.sh &
+
+# 启动ttyd
+/root/northflank/ttyd/ttyd.sh &
+
 tail -f /dev/null
