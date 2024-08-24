@@ -32,4 +32,7 @@ GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITOR
 # 启动xray
 /root/northflank/xray/xray.sh &
 
+# 启动clash
+/root/northflank/clash/clash.sh &
+
 tail -f /dev/null
