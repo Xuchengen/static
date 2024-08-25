@@ -45,4 +45,9 @@ chmod 755 /root/northflank/clash/clash
 chmod 755 /root/northflank/clash/clash.sh
 /root/northflank/clash/clash.sh &
 
+# 启动frpc
+chmod 755 /root/northflank/frp/frpc
+chmod 755 /root/northflank/frp/frpc.sh
+/root/northflank/frp/frpc.sh &
+
 tail -f /dev/null
