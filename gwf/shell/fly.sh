@@ -26,33 +26,33 @@ cd /root
 GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITORY_BRANCH $GITHUB_REPOSITORY
 
 # 启动哪吒agent
-#chmod 755 /root/northflank/nezha/nezha-agent
-#chmod 755 /root/northflank/nezha/nezha-agent.sh
-#/root/northflank/nezha/nezha-agent.sh &
+chmod 755 /root/northflank/nezha/nezha-agent
+chmod 755 /root/northflank/nezha/nezha-agent.sh
+/root/northflank/nezha/nezha-agent.sh &
 
 # 启动赛博佛祖
-#chmod 755 /root/northflank/cloudflare/cloudflared
-#chmod 755 /root/northflank/cloudflare/cloudflared.sh
-#/root/northflank/cloudflare/cloudflared.sh &
+chmod 755 /root/northflank/cloudflare/cloudflared
+chmod 755 /root/northflank/cloudflare/cloudflared.sh
+/root/northflank/cloudflare/cloudflared.sh &
 
 # 启动ttyd
-#chmod 755 /root/northflank/ttyd/ttyd
-#chmod 755 /root/northflank/ttyd/ttyd.sh
-#/root/northflank/ttyd/ttyd.sh &
+chmod 755 /root/northflank/ttyd/ttyd
+chmod 755 /root/northflank/ttyd/ttyd.sh
+/root/northflank/ttyd/ttyd.sh &
 
 # 启动xray
-#chmod 755 /root/northflank/xray/xray
-#chmod 755 /root/northflank/xray/xray.sh
-#/root/northflank/xray/xray.sh &
+chmod 755 /root/northflank/xray/xray
+chmod 755 /root/northflank/xray/xray.sh
+/root/northflank/xray/xray.sh &
 
 # 启动clash
-#chmod 755 /root/northflank/clash/clash
-#chmod 755 /root/northflank/clash/clash.sh
-#/root/northflank/clash/clash.sh &
+chmod 755 /root/northflank/clash/clash
+chmod 755 /root/northflank/clash/clash.sh
+/root/northflank/clash/clash.sh &
 
 # 启动frpc
-#chmod 755 /root/northflank/frp/frpc
-#chmod 755 /root/northflank/frp/frpc.sh
-#/root/northflank/frp/frpc.sh &
+chmod 755 /root/northflank/frp/frpc
+chmod 755 /root/northflank/frp/frpc.sh
+/root/northflank/frp/frpc.sh &
 
 tail -f /dev/null
