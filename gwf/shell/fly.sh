@@ -13,8 +13,6 @@ mkdir /root/.ssh
 # 下载文件
 curl -o /root/.ssh/id_ed25519 $SSH_URL
 
-cat /root/.ssh/id_ed25519
-
 # 设置Github私钥文件权限
 chmod 600 /root/.ssh/id_ed25519
 
