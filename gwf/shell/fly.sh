@@ -7,24 +7,23 @@ apk add bash openssh htop tzdata
 cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 echo "Asia/Shanghai" > /etc/timezone
 
-echo $TEST
-echo $SCRIPT_URL
-echo $GITHUB_EMAIL
-echo $GITHUB_REPOSITORY
-echo $GITHUB_REPOSITORY_BRANCH
+# 创建.ssh目录
+mkdir /root/.ssh
+
+# 写入密钥
+echo $TEST > /root/.ssh/id_ed25519
 
 # 设置git全局邮箱
-#git config --global user.email "$GITHUB_EMAIL"
+git config --global user.email "$GITHUB_EMAIL"
 
 # 设置Github私钥文件权限
-#chmod 600 /root/.ssh/id_ed25519
-#chmod 644 /root/.ssh/id_ed25519.pub
+chmod 600 /root/.ssh/id_ed25519
 
 # 进入root目录
-#cd /root
+cd /root
 
 # 克隆代码
-#GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITORY_BRANCH $GITHUB_REPOSITORY
+GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no" git clone -b $GITHUB_REPOSITORY_BRANCH $GITHUB_REPOSITORY
 
 # 启动哪吒agent
 #chmod 755 /root/northflank/nezha/nezha-agent
