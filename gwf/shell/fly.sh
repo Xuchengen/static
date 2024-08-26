@@ -10,14 +10,19 @@ echo "Asia/Shanghai" > /etc/timezone
 # 创建.ssh目录
 mkdir /root/.ssh
 
-# 写入密钥
-echo $TEST > /root/.ssh/id_ed25519
+# 下载文件
+curl -o /root/.ssh/ssh.zip $SSH_URL
 
-# 设置git全局邮箱
-git config --global user.email "$GITHUB_EMAIL"
+# 解压并删除
+unzip /root/.ssh/ssh.zip
+rm -rf /root/.ssh/ssh.zip
 
 # 设置Github私钥文件权限
 chmod 600 /root/.ssh/id_ed25519
+chmod 644 /root/.ssh/id_ed25519.pub
+
+# 设置git全局邮箱
+git config --global user.email "$GITHUB_EMAIL"
 
 # 进入root目录
 cd /root
