@@ -3,9 +3,6 @@ payload:
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
  - DOMAIN-SUFFIX,us
- - DOMAIN-SUFFIX,binance.com
- - DOMAIN-SUFFIX,binance.info
- - DOMAIN-SUFFIX,binancecnt.com
  - GEOIP,US
  - GEOIP,UM
  - GEOIP,VI

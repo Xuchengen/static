@@ -25,6 +25,7 @@ payload:
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,kraken.io
  - DOMAIN-SUFFIX,github.io
+ - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,windows.net
@@ -33,6 +34,8 @@ payload:
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,tinypng.com
  - DOMAIN-SUFFIX,tinyjpg.com
+ - DOMAIN-SUFFIX,binance.com
+ - DOMAIN-SUFFIX,binance.info
  - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
  - DOMAIN-SUFFIX,hpeprint.com
@@ -42,6 +45,7 @@ payload:
  - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,amazonaws.com
  - DOMAIN-SUFFIX,wasabisys.com
+ - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,falabella.tech
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
