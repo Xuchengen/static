@@ -13,6 +13,7 @@ payload:
  - DOMAIN-SUFFIX,freetrade.io
  - DOMAIN-SUFFIX,excelon.io
  - DOMAIN-SUFFIX,guavapay.com
+ - DOMAIN-SUFFIX,ton.org
  - DOMAIN-SUFFIX,uk
  - GEOIP,GB
  - GEOIP,DE
