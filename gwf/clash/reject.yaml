@@ -1,85 +1,86 @@
 payload:
+ # 网盘
  - DOMAIN-SUFFIX,115.com
  - DOMAIN-SUFFIX,ctfile.com
+ - DOMAIN-SUFFIX,alipan.com
  - DOMAIN-SUFFIX,ilanzou.com
  - DOMAIN-SUFFIX,woozooo.com
- - DOMAIN-SUFFIX,alipan.com
- - DOMAIN-SUFFIX,pan.xunlei.com
  - DOMAIN-SUFFIX,pan.baidu.com
  - DOMAIN-SUFFIX,pcs.baidu.com
- - DOMAIN-SUFFIX,hyz1.top
- - DOMAIN-SUFFIX,tdweilai.top
- - DOMAIN-SUFFIX,datuniu.com
+ - DOMAIN-SUFFIX,pan.xunlei.com
+ # 成人
  - DOMAIN-SUFFIX,t66y.com
  - DOMAIN-SUFFIX,xnxx.com
- - DOMAIN-SUFFIX,xhamster.com
- - DOMAIN-SUFFIX,pronhub.com
- - DOMAIN-SUFFIX,xvideos.com
- - DOMAIN-SUFFIX,xhamster.desi
- - DOMAIN-SUFFIX,stripchat.com
- - DOMAIN-SUFFIX,chaturbate.com
- - DOMAIN-SUFFIX,exhentai.org
- - DOMAIN-SUFFIX,eporner.com
- - DOMAIN-SUFFIX,hardsextube.com
- - DOMAIN-SUFFIX,drtuber.com
- - DOMAIN-SUFFIX,e-hentai.org
- - DOMAIN-SUFFIX,dlsite.com
  - DOMAIN-SUFFIX,51cg01.cc
+ - DOMAIN-SUFFIX,dlsite.com
  - DOMAIN-SUFFIX,51cg01.com
  - DOMAIN-SUFFIX,51cg.space
+ - DOMAIN-SUFFIX,pronhub.com
+ - DOMAIN-SUFFIX,xvideos.com
+ - DOMAIN-SUFFIX,eporner.com
+ - DOMAIN-SUFFIX,drtuber.com
  - DOMAIN-SUFFIX,zj6v626.com
+ - DOMAIN-SUFFIX,xhamster.com
+ - DOMAIN-SUFFIX,exhentai.org
+ - DOMAIN-SUFFIX,e-hentai.org
+ - DOMAIN-SUFFIX,stripchat.com
+ - DOMAIN-SUFFIX,avpaihang.com
+ - DOMAIN-SUFFIX,xhamster.desi
+ - DOMAIN-SUFFIX,chaturbate.com
+ - DOMAIN-SUFFIX,hardsextube.com
  - DOMAIN-SUFFIX,jinshuzhijia.com
  - DOMAIN-SUFFIX,jinshuzhijia.net
- - DOMAIN-SUFFIX,qbittorrent.org
- - DOMAIN-SUFFIX,bitcomet.com
+ # BT源
  - DOMAIN-SUFFIX,motrix.app
- - DOMAIN-SUFFIX,transmissionbt.com
  - DOMAIN-SUFFIX,tixati.com
- - DOMAIN-SUFFIX,thepiratebay.org
  - DOMAIN-SUFFIX,btchina.net
+ - DOMAIN-SUFFIX,bitcomet.com
  - DOMAIN-SUFFIX,torproject.org
- - DOMAIN-SUFFIX,speedtest.net
- - DOMAIN-SUFFIX,speedtest.cn
- - DOMAIN-SUFFIX,librespeed.cn
+ - DOMAIN-SUFFIX,qbittorrent.org
+ - DOMAIN-SUFFIX,thepiratebay.org
+ - DOMAIN-SUFFIX,transmissionbt.com
+ # 网络测速
  - DOMAIN-SUFFIX,fast.com
+ - DOMAIN-SUFFIX,speedtest.cn
+ - DOMAIN-SUFFIX,speedtest.net
+ - DOMAIN-SUFFIX,librespeed.cn
  - DOMAIN-SUFFIX,test.ustc.edu.cn
  - DOMAIN-SUFFIX,speed.neu.edu.cn
- - DOMAIN-SUFFIX,speedtest.shu.edu.cn
  - DOMAIN-SUFFIX,speed.nuaa.edu.cn
- - DOMAIN-SUFFIX,speedtest.zju.edu.cn
- - DOMAIN-SUFFIX,speedtest.sec.edu.cn
  - DOMAIN-SUFFIX,speed.hfut.edu.cn
  - DOMAIN-SUFFIX,speed5.ntu.edu.tw
- - DOMAIN-SUFFIX,avpaihang.com
+ - DOMAIN-SUFFIX,speedtest.zju.edu.cn
+ - DOMAIN-SUFFIX,speedtest.sec.edu.cn
+ - DOMAIN-SUFFIX,speedtest.shu.edu.cn
+ # 政治媒体
+ - DOMAIN-SUFFIX,gov.tw
+ - DOMAIN-SUFFIX,tibet.net
+ - DOMAIN-SUFFIX,ntdtv.com
+ - DOMAIN-SUFFIX,dpp.org.tw
+ - DOMAIN-SUFFIX,minghui.org
  - DOMAIN-SUFFIX,pincong.rocks
+ - DOMAIN-SUFFIX,renminbao.com
+ - DOMAIN-SUFFIX,dalailama.com
+ - DOMAIN-SUFFIX,falundafa.org
+ - DOMAIN-SUFFIX,freetibet.org
  - DOMAIN-SUFFIX,epochtimes.com
  - DOMAIN-SUFFIX,voachinese.com
+ - DOMAIN-SUFFIX,aboluowang.com
+ - DOMAIN-SUFFIX,secretchina.com
  - DOMAIN-SUFFIX,soundofhope.org
  - DOMAIN-SUFFIX,ganjingworld.com
- - DOMAIN-SUFFIX,ntdtv.com
- - DOMAIN-SUFFIX,secretchina.com
- - DOMAIN-SUFFIX,aboluowang.com
- - DOMAIN-SUFFIX,renminbao.com
- - DOMAIN-SUFFIX,minghui.org
- - DOMAIN-SUFFIX,falundafa.org
  - DOMAIN-SUFFIX,2008xianzhang.info
+ - DOMAIN-SUFFIX,chinadigitaltimes.net
  - DOMAIN-SUFFIX,program-think.blogspot.com
  - DOMAIN-SUFFIX,lingbaxianzhang.blogspot.com
- - DOMAIN-SUFFIX,gov.tw
- - DOMAIN-SUFFIX,dpp.org.tw
- - DOMAIN-SUFFIX,tibet.net
- - DOMAIN-SUFFIX,freetibet.org
- - DOMAIN-SUFFIX,dalailama.com
- - DOMAIN-SUFFIX,chinadigitaltimes.net
- - DOMAIN-SUFFIX,repocket.com
- - DOMAIN-SUFFIX,honeygain.com
- - DOMAIN-SUFFIX,traffmonetizer.com
- - DOMAIN-SUFFIX,googlevideo.com
+ # 知名流媒体
+ - DOMAIN-SUFFIX,twitch.tv
  - DOMAIN-SUFFIX,netflix.com
- - DOMAIN-SUFFIX,disneyplus.com
  - DOMAIN-SUFFIX,bilibili.com
  - DOMAIN-SUFFIX,gamer.com.tw
- - DOMAIN-SUFFIX,twitch.tv
+ - DOMAIN-SUFFIX,disneyplus.com
+ - DOMAIN-SUFFIX,googlevideo.com
+ # 盗版流媒体
  - DOMAIN-SUFFIX,ffzy1.tv
  - DOMAIN-SUFFIX,ffzy2.tv
  - DOMAIN-SUFFIX,ffzy3.tv
@@ -88,6 +89,7 @@ payload:
  - DOMAIN-SUFFIX,ffzyread1.com
  - DOMAIN-SUFFIX,ffzyread2.com
  - DOMAIN-SUFFIX,ffzyread3.com
+ - DOMAIN-SUFFIX,ffzy-video.com
  - DOMAIN-SUFFIX,ffzy-play1.com
  - DOMAIN-SUFFIX,ffzy-play2.com
  - DOMAIN-SUFFIX,ffzy-play3.com
@@ -105,6 +107,13 @@ payload:
  - DOMAIN-SUFFIX,ffzy-online5.com
  - DOMAIN-SUFFIX,ffzy-online6.com
  - DOMAIN-SUFFIX,ffzy-online7.com
- - DOMAIN-SUFFIX,ffzy-video.com
  - DOMAIN-SUFFIX,lyhuicheng.com
+ - DOMAIN-SUFFIX,high21-playback.com
+ # 综合
+ - DOMAIN-SUFFIX,hyz1.top
+ - DOMAIN-SUFFIX,datuniu.com
+ - DOMAIN-SUFFIX,repocket.com
+ - DOMAIN-SUFFIX,tdweilai.top
+ - DOMAIN-SUFFIX,honeygain.com
+ - DOMAIN-SUFFIX,traffmonetizer.com
  - DST-PORT,6881-6889/6969
