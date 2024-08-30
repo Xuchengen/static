@@ -56,6 +56,7 @@ payload:
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,appdomain.cloud
  - DOMAIN-SUFFIX,oraclecloud.com
+ - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
