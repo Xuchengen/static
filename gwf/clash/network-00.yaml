@@ -54,6 +54,7 @@ payload:
  - DOMAIN-SUFFIX,geotrust.com
  - DOMAIN-SUFFIX,comodoca.com
  - DOMAIN-SUFFIX,symantec.com
+ - DOMAIN-SUFFIX,linkedin.com
  - DOMAIN-SUFFIX,investing.com
  - DOMAIN-SUFFIX,aspnetcdn.com
  - DOMAIN-SUFFIX,microsoft.com
