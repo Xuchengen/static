@@ -74,6 +74,7 @@ payload:
  - DOMAIN-SUFFIX,program-think.blogspot.com
  - DOMAIN-SUFFIX,lingbaxianzhang.blogspot.com
  # 知名流媒体
+ - DOMAIN-SUFFIX,hulu.com
  - DOMAIN-SUFFIX,twitch.tv
  - DOMAIN-SUFFIX,netflix.com
  - DOMAIN-SUFFIX,bilibili.com
@@ -81,34 +82,34 @@ payload:
  - DOMAIN-SUFFIX,disneyplus.com
  - DOMAIN-SUFFIX,googlevideo.com
  # 盗版流媒体
- #- DOMAIN-SUFFIX,ffzy1.tv
- #- DOMAIN-SUFFIX,ffzy2.tv
- #- DOMAIN-SUFFIX,ffzy3.tv
- #- DOMAIN-SUFFIX,ffzy4.tv
- #- DOMAIN-SUFFIX,ffzy5.tv
- #- DOMAIN-SUFFIX,ffzyread1.com
- #- DOMAIN-SUFFIX,ffzyread2.com
- #- DOMAIN-SUFFIX,ffzyread3.com
- #- DOMAIN-SUFFIX,ffzy-video.com
- #- DOMAIN-SUFFIX,ffzy-play1.com
- #- DOMAIN-SUFFIX,ffzy-play2.com
- #- DOMAIN-SUFFIX,ffzy-play3.com
- #- DOMAIN-SUFFIX,ffzy-play4.com
- #- DOMAIN-SUFFIX,ffzy-play5.com
- #- DOMAIN-SUFFIX,ffzy-play6.com
- #- DOMAIN-SUFFIX,ffzy-play7.com
- #- DOMAIN-SUFFIX,ffzy-play8.com
- #- DOMAIN-SUFFIX,ffzy-play9.com
- #- DOMAIN-SUFFIX,ffzy-play10.com
- #- DOMAIN-SUFFIX,ffzy-online1.com
- #- DOMAIN-SUFFIX,ffzy-online2.com
- #- DOMAIN-SUFFIX,ffzy-online3.com
- #- DOMAIN-SUFFIX,ffzy-online4.com
- #- DOMAIN-SUFFIX,ffzy-online5.com
- #- DOMAIN-SUFFIX,ffzy-online6.com
- #- DOMAIN-SUFFIX,ffzy-online7.com
- #- DOMAIN-SUFFIX,lyhuicheng.com
- #- DOMAIN-SUFFIX,high21-playback.com
+ - DOMAIN-SUFFIX,ffzy1.tv
+ - DOMAIN-SUFFIX,ffzy2.tv
+ - DOMAIN-SUFFIX,ffzy3.tv
+ - DOMAIN-SUFFIX,ffzy4.tv
+ - DOMAIN-SUFFIX,ffzy5.tv
+ - DOMAIN-SUFFIX,ffzyread1.com
+ - DOMAIN-SUFFIX,ffzyread2.com
+ - DOMAIN-SUFFIX,ffzyread3.com
+ - DOMAIN-SUFFIX,ffzy-video.com
+ - DOMAIN-SUFFIX,ffzy-play1.com
+ - DOMAIN-SUFFIX,ffzy-play2.com
+ - DOMAIN-SUFFIX,ffzy-play3.com
+ - DOMAIN-SUFFIX,ffzy-play4.com
+ - DOMAIN-SUFFIX,ffzy-play5.com
+ - DOMAIN-SUFFIX,ffzy-play6.com
+ - DOMAIN-SUFFIX,ffzy-play7.com
+ - DOMAIN-SUFFIX,ffzy-play8.com
+ - DOMAIN-SUFFIX,ffzy-play9.com
+ - DOMAIN-SUFFIX,ffzy-play10.com
+ - DOMAIN-SUFFIX,ffzy-online1.com
+ - DOMAIN-SUFFIX,ffzy-online2.com
+ - DOMAIN-SUFFIX,ffzy-online3.com
+ - DOMAIN-SUFFIX,ffzy-online4.com
+ - DOMAIN-SUFFIX,ffzy-online5.com
+ - DOMAIN-SUFFIX,ffzy-online6.com
+ - DOMAIN-SUFFIX,ffzy-online7.com
+ - DOMAIN-SUFFIX,lyhuicheng.com
+ - DOMAIN-SUFFIX,high21-playback.com
  # 综合
  - DOMAIN-SUFFIX,hyz1.top
  - DOMAIN-SUFFIX,datuniu.com
