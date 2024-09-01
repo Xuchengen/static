@@ -18,8 +18,10 @@ payload:
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
+ - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
+ - DOMAIN-SUFFIX,huobi.com
  - DOMAIN-SUFFIX,deepl.com
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,apple.com
@@ -32,6 +34,8 @@ payload:
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,thawte.com
+ - DOMAIN-SUFFIX,hbfile.net 
+ - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io

@@ -1,5 +1,3 @@
 payload:
  - DOMAIN-SUFFIX,tw
- - DOMAIN-SUFFIX,htx.com
- - DOMAIN-SUFFIX,hbfile.net
  - GEOIP,TW

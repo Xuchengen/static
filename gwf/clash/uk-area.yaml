@@ -1,19 +1,19 @@
 payload:
- - DOMAIN-SUFFIX,monzo.com
  - DOMAIN-SUFFIX,monzo.me
- - DOMAIN-SUFFIX,monzo-alt.net
- - DOMAIN-SUFFIX,nonprod-ffs.io
- - DOMAIN-SUFFIX,trading212.com
- - DOMAIN-SUFFIX,zilch.com
- - DOMAIN-SUFFIX,payzilch.com
- - DOMAIN-SUFFIX,loqbox.com
- - DOMAIN-SUFFIX,giffgaff.com
  - DOMAIN-SUFFIX,myfin.bg
- - DOMAIN-SUFFIX,meawallet.app
- - DOMAIN-SUFFIX,freetrade.io
+ - DOMAIN-SUFFIX,monzo.com
+ - DOMAIN-SUFFIX,zilch.com
+ - DOMAIN-SUFFIX,loqbox.com
  - DOMAIN-SUFFIX,excelon.io
+ - DOMAIN-SUFFIX,payzilch.com
+ - DOMAIN-SUFFIX,giffgaff.com
  - DOMAIN-SUFFIX,guavapay.com
+ - DOMAIN-SUFFIX,freetrade.io
  - DOMAIN-SUFFIX,walletbot.me
+ - DOMAIN-SUFFIX,monzo-alt.net
+ - DOMAIN-SUFFIX,meawallet.app
+ - DOMAIN-SUFFIX,trading212.com
+ - DOMAIN-SUFFIX,nonprod-ffs.io
  - DOMAIN-SUFFIX,uk
  - GEOIP,GB
  - GEOIP,DE
