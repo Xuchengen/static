@@ -18,6 +18,7 @@ payload:
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
+ - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
  - DOMAIN-SUFFIX,deepl.com
@@ -28,11 +29,12 @@ payload:
  - DOMAIN-SUFFIX,github.io
  - DOMAIN-SUFFIX,certly.io
  - DOMAIN-SUFFIX,harica.gr
- - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,venafi.com
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,thawte.com
+ - DOMAIN-SUFFIX,hbfile.net
+ - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,windows.com
