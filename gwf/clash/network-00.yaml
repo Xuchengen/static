@@ -18,7 +18,6 @@ payload:
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
- - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
  - DOMAIN-SUFFIX,deepl.com
