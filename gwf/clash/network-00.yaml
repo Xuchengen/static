@@ -77,6 +77,7 @@ payload:
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
+ - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
  - DOMAIN-SUFFIX,cloudflareclient.com
