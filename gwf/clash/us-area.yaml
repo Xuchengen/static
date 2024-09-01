@@ -4,8 +4,6 @@ payload:
  - DOMAIN-SUFFIX,edu
  - DOMAIN-SUFFIX,us
  - DOMAIN-SUFFIX,okx.com
- - DOMAIN-SUFFIX,htx.com
- - DOMAIN-SUFFIX,hbfile.net
  - GEOIP,US
  - GEOIP,UM
  - GEOIP,VI
