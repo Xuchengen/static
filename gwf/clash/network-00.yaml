@@ -12,6 +12,7 @@ payload:
  - DOMAIN-SUFFIX,alicdn.com
  - DOMAIN-SUFFIX,alipay.com
  - DOMAIN-SUFFIX,aliyun.com
+ - DOMAIN-SUFFIX,qcloud.com
  - DOMAIN-SUFFIX,aliapp.org
  - DOMAIN-SUFFIX,effirst.com
  - DOMAIN-SUFFIX,baomitu.com
@@ -83,6 +84,7 @@ payload:
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
+ - DOMAIN-SUFFIX,woodpeckerlog.com
  - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
