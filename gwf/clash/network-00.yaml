@@ -21,6 +21,7 @@ payload:
  - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
+ - DOMAIN-SUFFIX,huobi.ug
  - DOMAIN-SUFFIX,huobi.com
  - DOMAIN-SUFFIX,deepl.com
  - DOMAIN-SUFFIX,unpkg.com
@@ -48,6 +49,7 @@ payload:
  - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,entrust.net
  - DOMAIN-SUFFIX,binance.info
+ - DOMAIN-SUFFIX,huobi.com.bo
  - DOMAIN-SUFFIX,rapidssl.com
  - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
