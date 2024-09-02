@@ -1,0 +1,46 @@
+name: 备份二进制程序
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 4 */3 * *'
+
+jobs:
+  build:
+    name: 任务
+    runs-on: ubuntu-latest
+    steps:
+    - name: 创建或更新发行版
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v1.0.0
+        release_name: "v1.0.0"
+        body: |
+          ## 日志
+          - 🔥 世界潮流浩浩荡荡，顺之则昌，逆之则亡。
+        draft: false
+        prerelease: false
+        overwrite: true
+
+    - name: 上传二进制程序
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # 创建目录
+        mkdir dist && cd dist
+        
+        # 下载二进制
+        curl -s -o nezha-agent_linux_amd64.zip https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_linux_amd64.zip
+        
+        for FILE in ./dist/*; do
+          echo "Uploading $FILE..."
+          curl -sSL \
+            -XPOST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Content-Type: $(file -b --mime-type $FILE)" \
+            --data-binary @"$FILE" \
+            "${{ steps.create_release.outputs.upload_url }}?name=$(basename $FILE)"
+        done
