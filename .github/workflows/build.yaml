@@ -32,6 +32,6 @@ jobs:
         # 下载二进制
         curl -s -o nezha-agent_linux_amd64.zip https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_linux_amd64.zip
         
-        gh release upload v1.0.0 ./build/** --clobber
+        gh release upload v1.0.0 ./dist/** --clobber
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
