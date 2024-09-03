@@ -35,7 +35,7 @@ jobs:
         # 赋予脚本权限
         chmod 755 ./scripts/binary/*
         # 创建二进制包文件目录
-        mkdir /usr/local/src/binary
+        mkdir ~/dist_binary
         
         # 遍历目录下所有的 .sh 文件并执行
         for SCRIPT in ./scripts/binary/*.sh; do
@@ -47,4 +47,4 @@ jobs:
           fi
         done
         
-        gh release create v1.0.0 /usr/local/src/binary/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
+        gh release create v1.0.0 ~/dist_binary/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
