@@ -14,12 +14,16 @@ jobs:
       uses: actions/checkout@v4
 
     - name: 删除已存在的发行版
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         gh release delete v1.0.0 -y || true
         git tag -d v1.0.0 || true
         git push origin --delete v1.0.0 || true
 
     - name: 创建一个新的发行版
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git tag v1.0.0
         git push origin v1.0.0
