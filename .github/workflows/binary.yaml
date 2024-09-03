@@ -17,6 +17,8 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        
+        # 删除标签并推送
         gh release delete v1.0.0 -y || true
         git tag -d v1.0.0 || true
         git push origin --delete v1.0.0 || true
@@ -25,8 +27,24 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        
+        # 打标签并推送
         git tag v1.0.0
         git push origin v1.0.0
-        mkdir dist
-        curl -sL -o ./dist/nezha-agent_linux_amd64.zip https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_linux_amd64.zip
-        gh release create v1.0.0 ./dist/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
+        
+        # 赋予脚本权限
+        chmod 755 ./scripts/binary/*
+        # 创建二进制包文件目录
+        mkdir /usr/local/src/binary
+        
+        # 遍历目录下所有的 .sh 文件并执行
+        for SCRIPT in ./scripts/binary/*.sh; do
+          if [ -f "$SCRIPT" ]; then
+            echo "执行 $SCRIPT 脚本"
+            bash "$SCRIPT"
+          else
+            echo "没有脚本文件"
+          fi
+        done
+        
+        gh release create v1.0.0 /usr/local/src/binary/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
