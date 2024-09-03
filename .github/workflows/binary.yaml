@@ -1,0 +1,28 @@
+name: 备份二进制程序
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 4 */3 * *'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 拉取代码
+      uses: actions/checkout@v4
+
+    - name: 删除已存在的发行版
+      run: |
+        gh release delete v1.0.0 -y || true
+        git tag -d v1.0.0 || true
+        git push origin --delete v1.0.0 || true
+
+    - name: 创建一个新的发行版
+      run: |
+        git tag v1.0.0
+        git push origin v1.0.0
+        mkdir dist
+        curl -o ./dist/nezha-agent_linux_amd64.zip https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_linux_amd64.zip
+        gh release create v1.0.0 ./dist/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
