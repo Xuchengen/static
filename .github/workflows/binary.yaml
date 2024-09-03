@@ -29,4 +29,7 @@ jobs:
         git push origin v1.0.0
         mkdir dist
         curl -o ./dist/nezha-agent_linux_amd64.zip https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_linux_amd64.zip
+        cd dist
+        ll -h
+        cd ../
         gh release create v1.0.0 ./dist/* --title "v1.0.0" --notes "🔥 时来上下皆同力，运去英雄不自由！"
