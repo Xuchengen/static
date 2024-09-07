@@ -3,6 +3,7 @@ payload:
  - DOMAIN-SUFFIX,myfin.bg
  - DOMAIN-SUFFIX,monzo.com
  - DOMAIN-SUFFIX,zilch.com
+ - DOMAIN-SUFFIX,curve.com
  - DOMAIN-SUFFIX,loqbox.com
  - DOMAIN-SUFFIX,excelon.io
  - DOMAIN-SUFFIX,payzilch.com
