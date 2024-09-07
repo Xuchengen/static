@@ -1,8 +1,8 @@
 payload:
+ - DOMAIN-SUFFIX,us
  - DOMAIN-SUFFIX,gov
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
- - DOMAIN-SUFFIX,us
  - DOMAIN-SUFFIX,okx.com
  - GEOIP,US
  - GEOIP,UM
