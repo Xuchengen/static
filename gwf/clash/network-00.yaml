@@ -1,5 +1,12 @@
 payload:
+ - DOMAIN-SUFFIX,cn
  - DOMAIN-SUFFIX,hk
+ - DOMAIN-SUFFIX,mo
+ - DOMAIN-SUFFIX,kr
+ - DOMAIN-SUFFIX,jp
+ - DOMAIN-SUFFIX,vn
+ - DOMAIN-SUFFIX,th
+ - DOMAIN-SUFFIX,my
  - DOMAIN-SUFFIX,xuchengen.cn
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
