@@ -4,6 +4,7 @@ payload:
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
+ - DOMAIN-SUFFIX,edu.cn
  - DOMAIN-SUFFIX,qq.com
  - DOMAIN-SUFFIX,1688.com
  - DOMAIN-SUFFIX,l-sou.com
@@ -19,14 +20,17 @@ payload:
  - DOMAIN-SUFFIX,aliyun.com
  - DOMAIN-SUFFIX,qcloud.com
  - DOMAIN-SUFFIX,aliapp.org
+ - DOMAIN-SUFFIX,digicert.cn
  - DOMAIN-SUFFIX,effirst.com
  - DOMAIN-SUFFIX,baomitu.com
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
+ - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
+ - DOMAIN-SUFFIX,live.com
  - DOMAIN-SUFFIX,huobi.ug
  - DOMAIN-SUFFIX,huobi.com
  - DOMAIN-SUFFIX,deepl.com
@@ -92,6 +96,7 @@ payload:
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,woodpeckerlog.com
+ - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
