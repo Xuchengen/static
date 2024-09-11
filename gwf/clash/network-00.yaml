@@ -122,9 +122,9 @@ payload:
  # 中国IP
  - GEOIP,CN
  # 香港IP
- - AND,((NOT,(GEOIP,google)),(GEOIP,HK))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,HK))
  # 澳门IP
- - AND,((NOT,(GEOIP,google)),(GEOIP,MO))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,MO))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
