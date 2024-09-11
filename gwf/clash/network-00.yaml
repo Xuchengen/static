@@ -51,6 +51,7 @@ payload:
  - DOMAIN-SUFFIX,certly.io
  - DOMAIN-SUFFIX,harica.gr
  - DOMAIN-SUFFIX,office.com
+ - DOMAIN-SUFFIX,jquery.com
  - DOMAIN-SUFFIX,venafi.com
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,docker.com
