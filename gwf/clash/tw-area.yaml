@@ -1,3 +1,7 @@
 payload:
  - DOMAIN-SUFFIX,tw
+ - DOMAIN-SUFFIX,kr
+ - DOMAIN-SUFFIX,jp
  - GEOIP,TW
+ - GEOIP,JP
+ - GEOIP,KR

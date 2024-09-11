@@ -1,16 +1,17 @@
 payload:
+ # 后缀域名
  - DOMAIN-SUFFIX,cn
  - DOMAIN-SUFFIX,hk
  - DOMAIN-SUFFIX,mo
- - DOMAIN-SUFFIX,kr
- - DOMAIN-SUFFIX,jp
  - DOMAIN-SUFFIX,vn
  - DOMAIN-SUFFIX,th
  - DOMAIN-SUFFIX,my
+ # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
+ # 国内域名
  - DOMAIN-SUFFIX,edu.cn
  - DOMAIN-SUFFIX,qq.com
  - DOMAIN-SUFFIX,1688.com
@@ -33,6 +34,7 @@ payload:
  - DOMAIN-SUFFIX,alibaba.com
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
+ # 国外域名
  - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,wise.com
@@ -112,26 +114,37 @@ payload:
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,digitaloceanspaces.com
  - DOMAIN-SUFFIX,cloudflareresearch.com
+ # 对讲机专用
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
  - DOMAIN-SUFFIX,talkatone.com
- - DOMAIN-REGEX,^(cdn|static|assets|viedo|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download)\.[^.]+\..+$
+ # 中国IP
  - GEOIP,CN
+ # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
+ # 静态资源专用
+ - DOMAIN-REGEX,^(cdn|static|assets|viedo|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
+ # 苹果
  - IP-ASN,714
+ - IP-ASN,6185
+ # 推特
  - IP-ASN,13414
- - IP-ASN,35995
- - IP-ASN,54888
  - IP-ASN,63179
- - IP-ASN,63293
- - IP-ASN,54115
+ - IP-ASN,35995
+ - IP-ASN,63194
+ # 脸书
  - IP-ASN,32934
+ - IP-ASN,11917
+ - IP-ASN,54115
+ - IP-ASN,63293
+ # 电报
  - IP-ASN,44907
  - IP-ASN,59930
  - IP-ASN,62014
  - IP-ASN,62041
  - IP-ASN,211157
+ # 对讲机专用
  - IP-CIDR,69.46.75.0/24
  - IP-CIDR,50.117.27.0/24
  - IP-CIDR,63.251.124.0/24
