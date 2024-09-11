@@ -121,6 +121,10 @@ payload:
  - DOMAIN-SUFFIX,talkatone.com
  # 中国IP
  - GEOIP,CN
+ # 香港IP
+ - AND,((GEOIP,HK),(NOT,(GEOIP,google)))
+ # 澳门IP
+ - AND,((GEOIP,MO),(NOT,(GEOIP,google)))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
