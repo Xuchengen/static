@@ -18,8 +18,10 @@ payload:
  - DOMAIN-SUFFIX,monzo-alt.net
  - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,trading212.com
+ - DOMAIN-SUFFIX,clearscore.com
  - DOMAIN-SUFFIX,nonprod-ffs.io
  - DOMAIN-SUFFIX,hellopillar.com
+ - DOMAIN-SUFFIX,totallymoney.com
  - DOMAIN-SUFFIX,imaginecurve.com
  - GEOIP,GB
  - GEOIP,DE
