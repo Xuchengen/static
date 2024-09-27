@@ -1,8 +1,17 @@
 payload:
  - DOMAIN-SUFFIX,uk
+ # N26
+ - DOMAIN-SUFFIX,n26.com
+ - DOMAIN-SUFFIX,tech26.de
+ - DOMAIN-SUFFIX,number26.de
+ - DOMAIN-SUFFIX,dev-tech26.de
+ # Monzo
  - DOMAIN-SUFFIX,monzo.me
- - DOMAIN-SUFFIX,myfin.bg
  - DOMAIN-SUFFIX,monzo.com
+ - DOMAIN-SUFFIX,monzo-alt.net
+ - DOMAIN-SUFFIX,nonprod-ffs.io
+ # Other
+ - DOMAIN-SUFFIX,myfin.bg
  - DOMAIN-SUFFIX,zilch.com
  - DOMAIN-SUFFIX,curve.com
  - DOMAIN-SUFFIX,curve.app
@@ -16,11 +25,9 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,pillar.money
  - DOMAIN-SUFFIX,truelayer.com
- - DOMAIN-SUFFIX,monzo-alt.net
  - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,clearscore.com
- - DOMAIN-SUFFIX,nonprod-ffs.io
  - DOMAIN-SUFFIX,hellopillar.com
  - DOMAIN-SUFFIX,totallymoney.com
  - DOMAIN-SUFFIX,imaginecurve.com
