@@ -10,27 +10,39 @@ payload:
  - DOMAIN-SUFFIX,monzo.com
  - DOMAIN-SUFFIX,monzo-alt.net
  - DOMAIN-SUFFIX,nonprod-ffs.io
- # Other
- - DOMAIN-SUFFIX,myfin.bg
- - DOMAIN-SUFFIX,zilch.com
+ # Barclays
+ - DOMAIN-SUFFIX,barclays.com
+ - DOMAIN-SUFFIX,barclays.mobi
+ # Curve
  - DOMAIN-SUFFIX,curve.com
  - DOMAIN-SUFFIX,curve.app
+ - DOMAIN-SUFFIX,imaginecurve.com
+ # MyGuava
+ - DOMAIN-SUFFIX,myguava.com
+ - DOMAIN-SUFFIX,guavapay.com
+ # Zilch
+ - DOMAIN-SUFFIX,zilch.com
+ - DOMAIN-SUFFIX,payzilch.com
+ # Pillar
+ - DOMAIN-SUFFIX,pillar.money
+ - DOMAIN-SUFFIX,hellopillar.com
+ # Experian
+ - DOMAIN-SUFFIX,experian.co.uk
+ - DOMAIN-SUFFIX,experianidentityservice.co.uk
+ # Other
+ - DOMAIN-SUFFIX,myfin.bg
  - DOMAIN-SUFFIX,loqbox.com
  - DOMAIN-SUFFIX,excelon.io
+ - DOMAIN-SUFFIX,wuzo.co.uk
  - DOMAIN-SUFFIX,chase.co.uk
- - DOMAIN-SUFFIX,payzilch.com
  - DOMAIN-SUFFIX,giffgaff.com
- - DOMAIN-SUFFIX,guavapay.com
  - DOMAIN-SUFFIX,freetrade.io
  - DOMAIN-SUFFIX,walletbot.me
- - DOMAIN-SUFFIX,pillar.money
  - DOMAIN-SUFFIX,truelayer.com
  - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,clearscore.com
- - DOMAIN-SUFFIX,hellopillar.com
  - DOMAIN-SUFFIX,totallymoney.com
- - DOMAIN-SUFFIX,imaginecurve.com
  - GEOIP,GB
  - GEOIP,DE
  - GEOIP,FR
