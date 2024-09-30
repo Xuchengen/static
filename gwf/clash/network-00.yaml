@@ -98,7 +98,6 @@ payload:
  - DOMAIN-SUFFIX,globalsign.com
  - DOMAIN-SUFFIX,falabella.tech
  - DOMAIN-SUFFIX,fontawesome.com
- - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,oraclecloud.com
  - DOMAIN-SUFFIX,appdomain.cloud
  - DOMAIN-SUFFIX,steamserver.net
