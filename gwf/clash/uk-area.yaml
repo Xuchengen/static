@@ -17,6 +17,10 @@ payload:
  - DOMAIN-SUFFIX,curve.com
  - DOMAIN-SUFFIX,curve.app
  - DOMAIN-SUFFIX,imaginecurve.com
+ # Lloyds
+ - DOMAIN-SUFFIX,lloydsbank.com
+ - DOMAIN-SUFFIX,lloydsbank.co.uk
+ - DOMAIN-SUFFIX,lloydsbankinggroup.com
  # MyGuava
  - DOMAIN-SUFFIX,myguava.com
  - DOMAIN-SUFFIX,guavapay.com
