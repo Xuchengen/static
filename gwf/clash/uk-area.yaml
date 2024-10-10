@@ -1,10 +1,5 @@
 payload:
  - DOMAIN-SUFFIX,uk
- # N26
- - DOMAIN-SUFFIX,n26.com
- - DOMAIN-SUFFIX,tech26.de
- - DOMAIN-SUFFIX,number26.de
- - DOMAIN-SUFFIX,dev-tech26.de
  # Monzo
  - DOMAIN-SUFFIX,monzo.me
  - DOMAIN-SUFFIX,monzo.com
@@ -49,7 +44,6 @@ payload:
  - DOMAIN-SUFFIX,clearscore.com
  - DOMAIN-SUFFIX,totallymoney.com
  - GEOIP,GB
- - GEOIP,DE
  - GEOIP,FR
  - GEOIP,IT
  - GEOIP,UA
