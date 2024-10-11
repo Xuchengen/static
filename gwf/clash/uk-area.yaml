@@ -42,6 +42,7 @@ payload:
  - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,clearscore.com
+ - DOMAIN-SUFFIX,moneyboxapp.com
  - DOMAIN-SUFFIX,totallymoney.com
  - GEOIP,GB
  - GEOIP,FR
