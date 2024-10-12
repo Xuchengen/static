@@ -110,10 +110,6 @@ payload:
  - DOMAIN-SUFFIX,ffzy-online7.com
  - DOMAIN-SUFFIX,lyhuicheng.com
  - DOMAIN-SUFFIX,high21-playback.com
- # Maya
- - DOMAIN-SUFFIX,appsflyer.com
- #- DOMAIN-SUFFIX,voyagerapis.com
- #- DOMAIN-SUFFIX,voyagerinnovation.com
  # 综合
  - DOMAIN-SUFFIX,hyz1.top
  - DOMAIN-SUFFIX,datuniu.com
