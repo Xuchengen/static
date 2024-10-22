@@ -30,6 +30,7 @@ payload:
  - DOMAIN-SUFFIX,experianidentityservice.co.uk
  # Other
  - DOMAIN-SUFFIX,myfin.bg
+ - DOMAIN-SUFFIX,skrill.com
  - DOMAIN-SUFFIX,loqbox.com
  - DOMAIN-SUFFIX,excelon.io
  - DOMAIN-SUFFIX,wuzo.co.uk
