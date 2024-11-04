@@ -3,7 +3,6 @@ payload:
  - DOMAIN-SUFFIX,gov
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
- - DOMAIN-SUFFIX,koho.ca
  - DOMAIN-SUFFIX,okx.com
  - GEOIP,US
  - GEOIP,UM
@@ -18,7 +17,7 @@ payload:
  - GEOIP,PF
  - GEOIP,TF
  - GEOIP,AI
- - GEOIP,CA
+ # - GEOIP,CA
  - GEOIP,BR
  - GEOIP,MX
  - GEOIP,CO
