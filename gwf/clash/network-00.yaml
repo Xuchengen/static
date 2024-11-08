@@ -70,10 +70,12 @@ payload:
  - DOMAIN-SUFFIX,binance.com
  - DOMAIN-SUFFIX,godaddy.com
  - DOMAIN-SUFFIX,sectigo.com
+ - DOMAIN-SUFFIX,paymaya.com
  - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,entrust.net
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io
+ - DOMAIN-SUFFIX,mayabank.ph
  - DOMAIN-SUFFIX,rapidssl.com
  - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
@@ -104,6 +106,7 @@ payload:
  - DOMAIN-SUFFIX,ownbank.com.ph
  - DOMAIN-SUFFIX,fontawesome.com
  - DOMAIN-SUFFIX,oraclecloud.com
+ - DOMAIN-SUFFIX,voyagerapis.com
  - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,appdomain.cloud
@@ -117,6 +120,7 @@ payload:
  - DOMAIN-SUFFIX,cloudflareclient.com
  - DOMAIN-SUFFIX,cloudflareaccess.com
  - DOMAIN-SUFFIX,githubusercontent.com
+ - DOMAIN-SUFFIX,voyagerinnovation.com
  - DOMAIN-SUFFIX,digitaloceanspaces.com
  - DOMAIN-SUFFIX,cloudflareresearch.com
  # 对讲机专用
