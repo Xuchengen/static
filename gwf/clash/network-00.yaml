@@ -1,3 +1,4 @@
+# 高级网络
 payload:
  # 后缀域名
  - DOMAIN-SUFFIX,cn
@@ -6,6 +7,7 @@ payload:
  - DOMAIN-SUFFIX,vn
  - DOMAIN-SUFFIX,th
  - DOMAIN-SUFFIX,my
+ - DOMAIN-SUFFIX,ph
  # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
  - DOMAIN-SUFFIX,tls.cloudns.org
@@ -28,10 +30,10 @@ payload:
  - DOMAIN-SUFFIX,aliyun.com
  - DOMAIN-SUFFIX,qcloud.com
  - DOMAIN-SUFFIX,aliapp.org
- - DOMAIN-SUFFIX,digicert.cn
  - DOMAIN-SUFFIX,effirst.com
  - DOMAIN-SUFFIX,baomitu.com
  - DOMAIN-SUFFIX,alibaba.com
+ - DOMAIN-SUFFIX,digicert.cn
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
  # 国外域名
@@ -61,8 +63,7 @@ payload:
  - DOMAIN-SUFFIX,hbfile.net
  - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,binance.us
- - DOMAIN-SUFFIX,imagekit.io
- - DOMAIN-SUFFIX,cloudimg.io
+ - DOMAIN-SUFFIX,ownbank.com
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,tinypng.com
  - DOMAIN-SUFFIX,tinyjpg.com
@@ -71,8 +72,8 @@ payload:
  - DOMAIN-SUFFIX,sectigo.com
  - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,entrust.net
- - DOMAIN-SUFFIX,binance.info
- - DOMAIN-SUFFIX,huobi.com.bo
+ - DOMAIN-SUFFIX,imagekit.io
+ - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,rapidssl.com
  - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
@@ -84,6 +85,8 @@ payload:
  - DOMAIN-SUFFIX,comodoca.com
  - DOMAIN-SUFFIX,symantec.com
  - DOMAIN-SUFFIX,linkedin.com
+ - DOMAIN-SUFFIX,binance.info
+ - DOMAIN-SUFFIX,huobi.com.bo
  - DOMAIN-SUFFIX,investing.com
  - DOMAIN-SUFFIX,aspnetcdn.com
  - DOMAIN-SUFFIX,microsoft.com
@@ -98,11 +101,12 @@ payload:
  - DOMAIN-SUFFIX,argotunnel.com
  - DOMAIN-SUFFIX,globalsign.com
  - DOMAIN-SUFFIX,falabella.tech
+ - DOMAIN-SUFFIX,ownbank.com.ph
  - DOMAIN-SUFFIX,fontawesome.com
  - DOMAIN-SUFFIX,oraclecloud.com
- - DOMAIN-SUFFIX,appdomain.cloud
  - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,letsencrypt.org
+ - DOMAIN-SUFFIX,appdomain.cloud
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,woodpeckerlog.com
