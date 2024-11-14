@@ -1,3 +1,4 @@
 payload:
  - DOMAIN-SUFFIX,sg
+ - DOMAIN-SUFFIX,okx.com
  - GEOIP,SG

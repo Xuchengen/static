@@ -3,7 +3,6 @@ payload:
  - DOMAIN-SUFFIX,gov
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
- - DOMAIN-SUFFIX,okx.com
  - GEOIP,US
  - GEOIP,UM
  - GEOIP,VI
