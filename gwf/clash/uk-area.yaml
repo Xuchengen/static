@@ -43,6 +43,7 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,truelayer.com
  - DOMAIN-SUFFIX,meawallet.app
+ - DOMAIN-SUFFIX,taptapsend.com
  - DOMAIN-SUFFIX,worldremit.com
  - DOMAIN-SUFFIX,trading212.com
  - DOMAIN-SUFFIX,clearscore.com
