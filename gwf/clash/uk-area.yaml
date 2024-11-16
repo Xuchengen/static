@@ -49,6 +49,7 @@ payload:
  - DOMAIN-SUFFIX,clearscore.com
  - DOMAIN-SUFFIX,moneyboxapp.com
  - DOMAIN-SUFFIX,totallymoney.com
+ - DOMAIN-SUFFIX,myflutterwave.com
  - GEOIP,GB
  - GEOIP,FR
  - GEOIP,IT
