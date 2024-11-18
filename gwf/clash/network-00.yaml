@@ -8,6 +8,11 @@ payload:
  - DOMAIN-SUFFIX,th
  - DOMAIN-SUFFIX,my
  - DOMAIN-SUFFIX,ph
+ - DOMAIN-SUFFIX,bn
+ - DOMAIN-SUFFIX,kh
+ - DOMAIN-SUFFIX,id
+ - DOMAIN-SUFFIX,la
+ - DOMAIN-SUFFIX,mm
  # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
  - DOMAIN-SUFFIX,tls.cloudns.org
@@ -143,6 +148,16 @@ payload:
  - AND,((NOT,((GEOIP,google))),(GEOIP,MY))
  # 菲律宾IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,PH))
+ # 文莱IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,bn))
+ # 柬埔寨IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,kh))
+ # 印度尼西亚IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,id))
+ # 老挝IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,la))
+ # 缅甸IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,mm))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
