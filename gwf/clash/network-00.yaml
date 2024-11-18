@@ -135,6 +135,14 @@ payload:
  - AND,((NOT,((GEOIP,google))),(GEOIP,HK))
  # 澳门IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,MO))
+ # 越南IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,VN))
+ # 泰国IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,TH))
+ # 马来西亚IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,MY))
+ # 菲律宾IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,PH))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
