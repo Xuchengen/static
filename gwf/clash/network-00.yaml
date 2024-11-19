@@ -44,6 +44,7 @@ payload:
  # 国外域名
  - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,htx.com
+ - DOMAIN-SUFFIX,hket.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
  - DOMAIN-SUFFIX,live.com
