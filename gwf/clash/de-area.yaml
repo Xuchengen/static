@@ -5,4 +5,6 @@ payload:
  - DOMAIN-SUFFIX,tech26.de
  - DOMAIN-SUFFIX,number26.de
  - DOMAIN-SUFFIX,dev-tech26.de
+ # 其他
+ - DOMAIN-SUFFIX,coinbase.com
  - GEOIP,DE
