@@ -49,6 +49,7 @@ payload:
  - DOMAIN-SUFFIX,sirv.com
  - DOMAIN-SUFFIX,live.com
  - DOMAIN-SUFFIX,huobi.ug
+ - DOMAIN-SUFFIX,sprig.com
  - DOMAIN-SUFFIX,huobi.com
  - DOMAIN-SUFFIX,deepl.com
  - DOMAIN-SUFFIX,unpkg.com
