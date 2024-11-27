@@ -54,10 +54,12 @@ payload:
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,imgix.net
+ - DOMAIN-SUFFIX,sentry.io
  - DOMAIN-SUFFIX,kraken.io
  - DOMAIN-SUFFIX,github.io
  - DOMAIN-SUFFIX,certly.io
  - DOMAIN-SUFFIX,harica.gr
+ - DOMAIN-SUFFIX,kraken.com
  - DOMAIN-SUFFIX,payeer.com
  - DOMAIN-SUFFIX,office.com
  - DOMAIN-SUFFIX,jquery.com
@@ -69,6 +71,8 @@ payload:
  - DOMAIN-SUFFIX,hbfile.net
  - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,binance.us
+ - DOMAIN-SUFFIX,segment.io
+ - DOMAIN-SUFFIX,segment.com
  - DOMAIN-SUFFIX,hotmail.com
  - DOMAIN-SUFFIX,ownbank.com
  - DOMAIN-SUFFIX,windows.com
@@ -83,6 +87,7 @@ payload:
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,mayabank.ph
+ - DOMAIN-SUFFIX,onetrust.com
  - DOMAIN-SUFFIX,rapidssl.com
  - DOMAIN-SUFFIX,cftunnel.com
  - DOMAIN-SUFFIX,jsdelivr.com
@@ -103,6 +108,7 @@ payload:
  - DOMAIN-SUFFIX,wasabisys.com
  - DOMAIN-SUFFIX,trustwave.com
  - DOMAIN-SUFFIX,identrust.com
+ - DOMAIN-SUFFIX,cookielaw.org
  - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
