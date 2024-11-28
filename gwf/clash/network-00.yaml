@@ -68,11 +68,14 @@ payload:
  - DOMAIN-SUFFIX,github.com
  - DOMAIN-SUFFIX,docker.com
  - DOMAIN-SUFFIX,thawte.com
+ - DOMAIN-SUFFIX,jwpsrv.com
+ - DOMAIN-SUFFIX,jwpcdn.com
  - DOMAIN-SUFFIX,office.net
  - DOMAIN-SUFFIX,hbfile.net
  - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,segment.io
+ - DOMAIN-SUFFIX,ifastgb.com
  - DOMAIN-SUFFIX,segment.com
  - DOMAIN-SUFFIX,hotmail.com
  - DOMAIN-SUFFIX,ownbank.com
@@ -100,6 +103,7 @@ payload:
  - DOMAIN-SUFFIX,comodoca.com
  - DOMAIN-SUFFIX,symantec.com
  - DOMAIN-SUFFIX,linkedin.com
+ - DOMAIN-SUFFIX,jwplayer.com
  - DOMAIN-SUFFIX,binance.info
  - DOMAIN-SUFFIX,huobi.com.bo
  - DOMAIN-SUFFIX,investing.com
@@ -110,6 +114,8 @@ payload:
  - DOMAIN-SUFFIX,trustwave.com
  - DOMAIN-SUFFIX,identrust.com
  - DOMAIN-SUFFIX,cookielaw.org
+ - DOMAIN-SUFFIX,icloud.com.cn
+ - DOMAIN-SUFFIX,trustpilot.com
  - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
@@ -128,7 +134,9 @@ payload:
  - DOMAIN-SUFFIX,bootstrapcdn.com
  - DOMAIN-SUFFIX,woodpeckerlog.com
  - DOMAIN-SUFFIX,windowsupdate.com
+ - DOMAIN-SUFFIX,fundsupermart.com
  - DOMAIN-SUFFIX,walletconnect.org
+ - DOMAIN-SUFFIX,microsoftonline.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
  - DOMAIN-SUFFIX,cloudflareclient.com
