@@ -145,6 +145,20 @@ payload:
  - DOMAIN-SUFFIX,voyagerinnovation.com
  - DOMAIN-SUFFIX,digitaloceanspaces.com
  - DOMAIN-SUFFIX,cloudflareresearch.com
+ # 维基百科
+ - DOMAIN-SUFFIX,wikinews.org
+ - DOMAIN-SUFFIX,wikidata.org
+ - DOMAIN-SUFFIX,wikimedia.org
+ - DOMAIN-SUFFIX,wikipedia.org
+ - DOMAIN-SUFFIX,wikiquote.org
+ - DOMAIN-SUFFIX,wikibooks.org
+ - DOMAIN-SUFFIX,mediawiki.org
+ - DOMAIN-SUFFIX,wiktionary.org
+ - DOMAIN-SUFFIX,wikisource.org
+ - DOMAIN-SUFFIX,wikivoyage.org
+ - DOMAIN-SUFFIX,wikiversity.org
+ - DOMAIN-SUFFIX,wikifunctions.org
+ - DOMAIN-SUFFIX,wikimediafoundation.org
  # 对讲机专用
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
