@@ -22,6 +22,7 @@ payload:
  # Zilch
  - DOMAIN-SUFFIX,zilch.com
  - DOMAIN-SUFFIX,payzilch.com
+ - DOMAIN-SUFFIX,meawallet.app
  # Pillar
  - DOMAIN-SUFFIX,pillar.money
  - DOMAIN-SUFFIX,hellopillar.com
@@ -44,7 +45,6 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,nala-api.com
  - DOMAIN-SUFFIX,truelayer.com
- - DOMAIN-SUFFIX,meawallet.app
  - DOMAIN-SUFFIX,taptapsend.com
  - DOMAIN-SUFFIX,worldremit.com
  - DOMAIN-SUFFIX,trading212.com
