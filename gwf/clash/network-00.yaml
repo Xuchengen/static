@@ -13,6 +13,10 @@ payload:
  - DOMAIN-SUFFIX,id
  - DOMAIN-SUFFIX,la
  - DOMAIN-SUFFIX,mm
+ - DOMAIN-SUFFIX,tw
+ - DOMAIN-SUFFIX,jp
+ - DOMAIN-SUFFIX,kr
+ - DOMAIN-SUFFIX,mn
  # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
  - DOMAIN-SUFFIX,tls.cloudns.org
@@ -179,15 +183,23 @@ payload:
  # 菲律宾IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,PH))
  # 文莱IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,bn))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,BN))
  # 柬埔寨IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,kh))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,KH))
  # 印度尼西亚IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,id))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,ID))
  # 老挝IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,la))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,LA))
  # 缅甸IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,mm))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,MM))
+ # 台湾IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,TW))
+ # 日本IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,JP))
+ # 韩国IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,KR))
+ # 蒙古IP
+ - AND,((NOT,((GEOIP,google))),(GEOIP,MN))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
