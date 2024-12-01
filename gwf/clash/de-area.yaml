@@ -7,12 +7,12 @@ payload:
  - DOMAIN-SUFFIX,dev-tech26.de
  # Bybit
  - DOMAIN-SUFFIX,bymj.io
+ - DOMAIN-SUFFIX,bybit.com
+ - DOMAIN-SUFFIX,bycsi.com
  - DOMAIN-SUFFIX,bybit.biz
  - DOMAIN-SUFFIX,byd3c3.com
  - DOMAIN-SUFFIX,bybdc6.com
  - DOMAIN-SUFFIX,byapps.net
- - DOMAIN-SUFFIX,bycsi.com
- - DOMAIN-SUFFIX,bybit.com
  - DOMAIN-SUFFIX,byabcde.com
  - DOMAIN-SUFFIX,bybit.cloud
  - DOMAIN-SUFFIX,bybit-aws.com
