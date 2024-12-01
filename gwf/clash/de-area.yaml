@@ -5,6 +5,19 @@ payload:
  - DOMAIN-SUFFIX,tech26.de
  - DOMAIN-SUFFIX,number26.de
  - DOMAIN-SUFFIX,dev-tech26.de
+ # Bybit
+ - DOMAIN-SUFFIX,bymj.io
+ - DOMAIN-SUFFIX,bybit.biz
+ - DOMAIN-SUFFIX,byd3c3.com
+ - DOMAIN-SUFFIX,bybdc6.com
+ - DOMAIN-SUFFIX,byapps.net
+ - DOMAIN-SUFFIX,bycsi.com
+ - DOMAIN-SUFFIX,bybit.com
+ - DOMAIN-SUFFIX,byabcde.com
+ - DOMAIN-SUFFIX,bybit.cloud
+ - DOMAIN-SUFFIX,bybit-aws.com
+ - DOMAIN-SUFFIX,bybitglobal.com
+ - DOMAIN-SUFFIX,bybit-global.com
  # 其他
  - DOMAIN-SUFFIX,coinbase.com
  - GEOIP,DE
