@@ -32,6 +32,7 @@ payload:
  # Other
  - DOMAIN-SUFFIX,nala.com
  - DOMAIN-SUFFIX,myfin.bg
+ - DOMAIN-SUFFIX,yapily.com
  - DOMAIN-SUFFIX,skrill.com
  - DOMAIN-SUFFIX,profee.com
  - DOMAIN-SUFFIX,loqbox.com
