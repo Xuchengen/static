@@ -48,6 +48,8 @@ payload:
  # 国外域名
  - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,htx.com
+ - DOMAIN-SUFFIX,fpjs.io
+ - DOMAIN-SUFFIX,ntp.org
  - DOMAIN-SUFFIX,hket.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
@@ -108,6 +110,9 @@ payload:
  - DOMAIN-SUFFIX,symantec.com
  - DOMAIN-SUFFIX,linkedin.com
  - DOMAIN-SUFFIX,jwplayer.com
+ - DOMAIN-SUFFIX,cdnfonts.com
+ - DOMAIN-SUFFIX,msftncsi.com
+ - DOMAIN-SUFFIX,fpnpmcdn.net
  - DOMAIN-SUFFIX,binance.info
  - DOMAIN-SUFFIX,huobi.com.bo
  - DOMAIN-SUFFIX,investing.com
