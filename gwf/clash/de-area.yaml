@@ -18,6 +18,9 @@ payload:
  - DOMAIN-SUFFIX,bybit-aws.com
  - DOMAIN-SUFFIX,bybitglobal.com
  - DOMAIN-SUFFIX,bybit-global.com
+ # Telegram Wallet
+ - DOMAIN-SUFFIX,walletbot.me
+ - DOMAIN-SUFFIX,walletteam.org
  # 其他
  - DOMAIN-SUFFIX,coinbase.com
  - GEOIP,DE
