@@ -77,7 +77,6 @@ payload:
  - DOMAIN-SUFFIX,office.net
  - DOMAIN-SUFFIX,hbfile.net
  - DOMAIN-SUFFIX,htx.com.pk
- - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,segment.io
  - DOMAIN-SUFFIX,ifastgb.com
  - DOMAIN-SUFFIX,segment.com
@@ -86,7 +85,6 @@ payload:
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,tinypng.com
  - DOMAIN-SUFFIX,tinyjpg.com
- - DOMAIN-SUFFIX,binance.com
  - DOMAIN-SUFFIX,godaddy.com
  - DOMAIN-SUFFIX,sectigo.com
  - DOMAIN-SUFFIX,paymaya.com
@@ -111,7 +109,6 @@ payload:
  - DOMAIN-SUFFIX,cdnfonts.com
  - DOMAIN-SUFFIX,msftncsi.com
  - DOMAIN-SUFFIX,fpnpmcdn.net
- - DOMAIN-SUFFIX,binance.info
  - DOMAIN-SUFFIX,huobi.com.bo
  - DOMAIN-SUFFIX,investing.com
  - DOMAIN-SUFFIX,aspnetcdn.com
@@ -123,7 +120,6 @@ payload:
  - DOMAIN-SUFFIX,cookielaw.org
  - DOMAIN-SUFFIX,icloud.com.cn
  - DOMAIN-SUFFIX,trustpilot.com
- - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
  - DOMAIN-SUFFIX,cloudinary.com
