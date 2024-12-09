@@ -29,9 +29,13 @@ payload:
  # Experian
  - DOMAIN-SUFFIX,experian.co.uk
  - DOMAIN-SUFFIX,experianidentityservice.co.uk
+ # Kraken
+ - DOMAIN-SUFFIX,kraken.io
+ - DOMAIN-SUFFIX,kraken.com
  # Other
  - DOMAIN-SUFFIX,nala.com
  - DOMAIN-SUFFIX,myfin.bg
+ - DOMAIN-SUFFIX,etana.com
  - DOMAIN-SUFFIX,yapily.com
  - DOMAIN-SUFFIX,skrill.com
  - DOMAIN-SUFFIX,profee.com
