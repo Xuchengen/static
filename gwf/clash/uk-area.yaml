@@ -32,6 +32,11 @@ payload:
  # Kraken
  - DOMAIN-SUFFIX,kraken.io
  - DOMAIN-SUFFIX,kraken.com
+ # UKP & Royal mail
+ - DOMAIN-SUFFIX,expo.dev
+ - DOMAIN-SUFFIX,exp.host
+ - DOMAIN-SUFFIX,royalmail.com
+ - DOMAIN-SUFFIX,ipostalmail.net
  # Other
  - DOMAIN-SUFFIX,nala.com
  - DOMAIN-SUFFIX,myfin.bg
