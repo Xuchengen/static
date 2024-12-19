@@ -10,4 +10,6 @@ payload:
  - DOMAIN-SUFFIX,bnbstatic.com
  - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,binance.charity
+ # Hyperliquid
+ - DOMAIN-SUFFIX,hyperliquid.xyz
  - GEOIP,SG
