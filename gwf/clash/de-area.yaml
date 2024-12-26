@@ -23,5 +23,6 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
  # 其他
+ - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,coinbase.com
  - GEOIP,DE
