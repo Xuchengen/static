@@ -93,6 +93,7 @@ payload:
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,mayabank.ph
+ - DOMAIN-SUFFIX,mzstatic.com
  - DOMAIN-SUFFIX,onetrust.com
  - DOMAIN-SUFFIX,rapidssl.com
  - DOMAIN-SUFFIX,cftunnel.com
