@@ -5,6 +5,8 @@ payload:
  - DOMAIN-SUFFIX,tech26.de
  - DOMAIN-SUFFIX,number26.de
  - DOMAIN-SUFFIX,dev-tech26.de
+ # Bunq
+ - DOMAIN-SUFFIX,bunq.com
  # Bybit
  - DOMAIN-SUFFIX,bymj.io
  - DOMAIN-SUFFIX,bybit.com
