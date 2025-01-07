@@ -7,6 +7,7 @@ payload:
  - DOMAIN-SUFFIX,dev-tech26.de
  # Bunq
  - DOMAIN-SUFFIX,bunq.com
+ - DOMAIN-SUFFIX,eu.sardine.ai
  # Bybit
  - DOMAIN-SUFFIX,bymj.io
  - DOMAIN-SUFFIX,bybit.com
