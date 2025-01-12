@@ -1,6 +1,5 @@
 payload:
  - DOMAIN-SUFFIX,sg
- - DOMAIN-SUFFIX,okx.com
  # 币安
  - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,binance.tr
