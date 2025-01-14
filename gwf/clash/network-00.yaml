@@ -136,6 +136,7 @@ payload:
  - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,appdomain.cloud
+ - DOMAIN-SUFFIX,appsflyersdk.com
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,redditstatic.com
  - DOMAIN-SUFFIX,bootstrapcdn.com
