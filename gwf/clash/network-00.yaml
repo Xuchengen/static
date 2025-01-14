@@ -19,6 +19,8 @@ payload:
  - DOMAIN-SUFFIX,mn
  # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
+ - DOMAIN-SUFFIX,tls365.us.kg
+ - DOMAIN-SUFFIX,ssl365.us.kg
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
@@ -122,11 +124,12 @@ payload:
  - DOMAIN-SUFFIX,cookielaw.org
  - DOMAIN-SUFFIX,icloud.com.cn
  - DOMAIN-SUFFIX,trustpilot.com
- - DOMAIN-SUFFIX,cloudflare.com
  - DOMAIN-SUFFIX,bootswatch.com
  - DOMAIN-SUFFIX,cloudinary.com
  - DOMAIN-SUFFIX,argotunnel.com
  - DOMAIN-SUFFIX,globalsign.com
+ - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,cloudflare.net
  - DOMAIN-SUFFIX,falabella.tech
  - DOMAIN-SUFFIX,ownbank.com.ph
  - DOMAIN-SUFFIX,cloudfront.net
