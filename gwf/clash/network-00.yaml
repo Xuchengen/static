@@ -111,6 +111,7 @@ payload:
  - DOMAIN-SUFFIX,msftncsi.com
  - DOMAIN-SUFFIX,fpnpmcdn.net
  - DOMAIN-SUFFIX,huobi.com.bo
+ - DOMAIN-SUFFIX,onesignal.com
  - DOMAIN-SUFFIX,investing.com
  - DOMAIN-SUFFIX,aspnetcdn.com
  - DOMAIN-SUFFIX,microsoft.com
@@ -142,6 +143,7 @@ payload:
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,fundsupermart.com
  - DOMAIN-SUFFIX,walletconnect.org
+ - DOMAIN-SUFFIX,cloudflare-dns.com
  - DOMAIN-SUFFIX,microsoftonline.com
  - DOMAIN-SUFFIX,fbusinesscenter.com
  - DOMAIN-SUFFIX,filestackcontent.com
