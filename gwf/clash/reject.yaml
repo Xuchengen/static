@@ -89,7 +89,7 @@ payload:
  - DOMAIN-SUFFIX,gamer.com.tw
  - DOMAIN-SUFFIX,primevideo.com
  - DOMAIN-SUFFIX,disneyplus.com
- - DOMAIN-SUFFIX,googlevideo.com
+ # - DOMAIN-SUFFIX,googlevideo.com
  # 盗版流媒体
  - DOMAIN-SUFFIX,ffzy1.tv
  - DOMAIN-SUFFIX,ffzy2.tv
