@@ -1,3 +1,4 @@
-# 特别网络
+# 前置-高级网络
 payload:
  - DOMAIN-SUFFIX,googlevideo.com
+ - DOMAIN-SUFFIX,mtalk.google.com
