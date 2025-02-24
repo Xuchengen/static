@@ -93,6 +93,7 @@ payload:
  - DOMAIN-SUFFIX,paymaya.com
  - DOMAIN-SUFFIX,windows.net
  - DOMAIN-SUFFIX,entrust.net
+ - DOMAIN-SUFFIX,mozilla.net
  - DOMAIN-SUFFIX,imagekit.io
  - DOMAIN-SUFFIX,cloudimg.io
  - DOMAIN-SUFFIX,mayabank.ph
