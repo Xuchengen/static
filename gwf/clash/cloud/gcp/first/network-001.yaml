@@ -15,3 +15,6 @@ payload:
  - DOMAIN-SUFFIX,alt7-mtalk.google.com
  - DOMAIN-SUFFIX,alt8-mtalk.google.com
  - DOMAIN-SUFFIX,mtalk-staging.google.com
+ # TikTok 视频
+ - DOMAIN-SUFFIX,tiktokcdn-eu.com
+ - DOMAIN-SUFFIX,v16-webapp-prime.tiktok.com
