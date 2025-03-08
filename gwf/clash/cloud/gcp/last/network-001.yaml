@@ -214,7 +214,7 @@ payload:
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
  # 静态资源专用
- - DOMAIN-REGEX,^(cdn|static|assets|viedo|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
+ - DOMAIN-REGEX,^(cdn|static|assets|video|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
  # 苹果
  - IP-ASN,714
  - IP-ASN,6185
