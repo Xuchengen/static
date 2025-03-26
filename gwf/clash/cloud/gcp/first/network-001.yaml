@@ -1,6 +1,7 @@
 # 前置-高级网络
 payload:
  # YouTube 视频
+ - DOMAIN-SUFFIX,ytimg.com
  - DOMAIN-SUFFIX,googlevideo.com
  # Android 通知
  - DOMAIN-SUFFIX,mtalk.google.com
