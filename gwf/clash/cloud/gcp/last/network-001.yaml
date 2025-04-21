@@ -47,6 +47,7 @@ payload:
  - DOMAIN-SUFFIX,digicert.cn
  - DOMAIN-SUFFIX,dingtalk.com
  - DOMAIN-SUFFIX,aliyuncs.com
+ - DOMAIN-SUFFIX,alibabacloud.com
  # 国外域名
  - DOMAIN-SUFFIX,msn.com
  - DOMAIN-SUFFIX,htx.com
