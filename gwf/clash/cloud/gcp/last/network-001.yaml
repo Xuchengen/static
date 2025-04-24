@@ -19,8 +19,8 @@ payload:
  - DOMAIN-SUFFIX,mn
  # 自建域名
  - DOMAIN-SUFFIX,xuchengen.cn
- - DOMAIN-SUFFIX,tls365.us.kg
- - DOMAIN-SUFFIX,ssl365.us.kg
+ - DOMAIN-SUFFIX,xudan.eu.org
+ - DOMAIN-SUFFIX,xuting.eu.org
  - DOMAIN-SUFFIX,tls.cloudns.org
  - DOMAIN-SUFFIX,svn.cloudns.org
  - DOMAIN-SUFFIX,xuchengen.eu.org
