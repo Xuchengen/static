@@ -60,7 +60,6 @@ payload:
  - DOMAIN-SUFFIX,huobi.ug
  - DOMAIN-SUFFIX,sprig.com
  - DOMAIN-SUFFIX,huobi.com
- - DOMAIN-SUFFIX,deepl.com
  - DOMAIN-SUFFIX,unpkg.com
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,imgix.net
@@ -68,6 +67,7 @@ payload:
  - DOMAIN-SUFFIX,github.io
  - DOMAIN-SUFFIX,certly.io
  - DOMAIN-SUFFIX,harica.gr
+ - DOMAIN-SUFFIX,deepl.com
  - DOMAIN-SUFFIX,itunes.com
  - DOMAIN-SUFFIX,payeer.com
  - DOMAIN-SUFFIX,office.com
@@ -114,8 +114,11 @@ payload:
  - DOMAIN-SUFFIX,jwplayer.com
  - DOMAIN-SUFFIX,cdnfonts.com
  - DOMAIN-SUFFIX,msftncsi.com
+ - DOMAIN-SUFFIX,facebook.com
+ - DOMAIN-SUFFIX,whatsapp.net
  - DOMAIN-SUFFIX,fpnpmcdn.net
  - DOMAIN-SUFFIX,huobi.com.bo
+ - DOMAIN-SUFFIX,instagram.com
  - DOMAIN-SUFFIX,onesignal.com
  - DOMAIN-SUFFIX,investing.com
  - DOMAIN-SUFFIX,aspnetcdn.com
@@ -142,6 +145,7 @@ payload:
  - DOMAIN-SUFFIX,steamserver.net
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,appdomain.cloud
+ - DOMAIN-SUFFIX,cdninstagram.com
  - DOMAIN-SUFFIX,appsflyersdk.com
  - DOMAIN-SUFFIX,getbootstrap.com
  - DOMAIN-SUFFIX,redditstatic.com
