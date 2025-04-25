@@ -30,5 +30,6 @@ payload:
  # 其他
  - DOMAIN-SUFFIX,ka.app
  - DOMAIN-SUFFIX,nash.io
+ - DOMAIN-SUFFIX,sumup.io
  - DOMAIN-SUFFIX,coinbase.com
  - GEOIP,DE
