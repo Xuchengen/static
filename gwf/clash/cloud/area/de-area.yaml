@@ -32,4 +32,3 @@ payload:
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
  - DOMAIN-SUFFIX,coinbase.com
- - GEOIP,DE

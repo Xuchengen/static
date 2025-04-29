@@ -11,4 +11,3 @@ payload:
  - DOMAIN-SUFFIX,binance.charity
  # Hyperliquid
  - DOMAIN-SUFFIX,hyperliquid.xyz
- - GEOIP,SG

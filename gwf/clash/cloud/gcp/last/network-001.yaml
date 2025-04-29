@@ -184,10 +184,10 @@ payload:
  - DOMAIN-SUFFIX,tktn.at
  - DOMAIN-SUFFIX,tktn.me
  - DOMAIN-SUFFIX,talkatone.com
+ # 静态资源专用
+ - DOMAIN-REGEX,^(cdn|static|assets|video|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
  # 中国IP
  - GEOIP,CN
- # 香港IP
- - AND,((NOT,((GEOIP,google))),(GEOIP,HK))
  # 澳门IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,MO))
  # 越南IP
@@ -218,8 +218,6 @@ payload:
  - AND,((NOT,((GEOIP,google))),(GEOIP,MN))
  # 泛播隧道专用
  - AND,((GEOIP,cloudflare),(DST-PORT,7844))
- # 静态资源专用
- - DOMAIN-REGEX,^(cdn|static|assets|video|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
  # 苹果
  - IP-ASN,714
  - IP-ASN,6185
