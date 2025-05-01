@@ -41,18 +41,28 @@ payload:
  - DOMAIN-SUFFIX,transmissionbt.com
  # 网络测速
  - DOMAIN-SUFFIX,fast.com
+ - DOMAIN-SUFFIX,nperf.com
  - DOMAIN-SUFFIX,jisuts.com
+ - DOMAIN-SUFFIX,online.sh.cn
  - DOMAIN-SUFFIX,speedtest.cn
+ - DOMAIN-SUFFIX,speedtest.im
  - DOMAIN-SUFFIX,speedtest.net
  - DOMAIN-SUFFIX,librespeed.cn
+ - DOMAIN-SUFFIX,ooklaserver.net
+ - DOMAIN-SUFFIX,browserscan.net
  - DOMAIN-SUFFIX,test.ustc.edu.cn
  - DOMAIN-SUFFIX,speed.neu.edu.cn
+ - DOMAIN-SUFFIX,speedtest.hgc.jp
  - DOMAIN-SUFFIX,speed.nuaa.edu.cn
  - DOMAIN-SUFFIX,speed.hfut.edu.cn
  - DOMAIN-SUFFIX,speed5.ntu.edu.tw
+ - DOMAIN-SUFFIX,speedtestcustom.com
  - DOMAIN-SUFFIX,speedtest.zju.edu.cn
  - DOMAIN-SUFFIX,speedtest.sec.edu.cn
  - DOMAIN-SUFFIX,speedtest.shu.edu.cn
+ - DOMAIN-SUFFIX,wangsuceshi.bmcx.com
+ - DOMAIN-SUFFIX,speed.cloudflare.com
+ - DOMAIN-SUFFIX,speedtest.clouvider.net
  # 政治媒体
  - DOMAIN-SUFFIX,gov.tw
  - DOMAIN-SUFFIX,tibet.net
