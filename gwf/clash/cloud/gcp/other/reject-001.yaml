@@ -41,6 +41,7 @@ payload:
  - DOMAIN-SUFFIX,transmissionbt.com
  # 网络测速
  - DOMAIN-SUFFIX,fast.com
+ - DOMAIN-SUFFIX,jisuts.com
  - DOMAIN-SUFFIX,speedtest.cn
  - DOMAIN-SUFFIX,speedtest.net
  - DOMAIN-SUFFIX,librespeed.cn
