@@ -183,6 +183,8 @@ payload:
  - DOMAIN-SUFFIX,wikiversity.org
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
+ # Bybit交易所
+ - DOMAIN-SUFFIX,ws2.bybit.biz
  # 对讲机专用
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
