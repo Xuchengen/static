@@ -184,7 +184,9 @@ payload:
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
  # Bybit交易所
+ - DOMAIN-SUFFIX,ws2.bycbe.com
  - DOMAIN-SUFFIX,ws2.bybit.biz
+ - DOMAIN-SUFFIX,ws2.byapis.com
  - DOMAIN-SUFFIX,ws2.byapps.net
  # 对讲机专用
  - DOMAIN-SUFFIX,tktn.be
