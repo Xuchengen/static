@@ -100,6 +100,7 @@ payload:
  - DOMAIN-SUFFIX,gamer.com.tw
  - DOMAIN-SUFFIX,primevideo.com
  - DOMAIN-SUFFIX,disneyplus.com
+ - DOMAIN-SUFFIX,googlevideo.com
  # 挂机流量
  - DOMAIN-SUFFIX,repocket.com
  - DOMAIN-SUFFIX,honeygain.com
