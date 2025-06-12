@@ -101,6 +101,48 @@ payload:
  - DOMAIN-SUFFIX,primevideo.com
  - DOMAIN-SUFFIX,disneyplus.com
  - DOMAIN-SUFFIX,googlevideo.com
+ # 盗版流媒体
+ - DOMAIN-SUFFIX,ffzy1.tv
+ - DOMAIN-SUFFIX,ffzy2.tv
+ - DOMAIN-SUFFIX,ffzy3.tv
+ - DOMAIN-SUFFIX,ffzy4.tv
+ - DOMAIN-SUFFIX,ffzy5.tv
+ - DOMAIN-SUFFIX,ffzyread1.com
+ - DOMAIN-SUFFIX,ffzyread2.com
+ - DOMAIN-SUFFIX,ffzyread3.com
+ - DOMAIN-SUFFIX,ffzy-video.com
+ - DOMAIN-SUFFIX,ffzy-play1.com
+ - DOMAIN-SUFFIX,ffzy-play2.com
+ - DOMAIN-SUFFIX,ffzy-play3.com
+ - DOMAIN-SUFFIX,ffzy-play4.com
+ - DOMAIN-SUFFIX,ffzy-play5.com
+ - DOMAIN-SUFFIX,ffzy-play6.com
+ - DOMAIN-SUFFIX,ffzy-play7.com
+ - DOMAIN-SUFFIX,ffzy-play8.com
+ - DOMAIN-SUFFIX,ffzy-play9.com
+ - DOMAIN-SUFFIX,ffzy-play10.com
+ - DOMAIN-SUFFIX,ffzy-online1.com
+ - DOMAIN-SUFFIX,ffzy-online2.com
+ - DOMAIN-SUFFIX,ffzy-online3.com
+ - DOMAIN-SUFFIX,ffzy-online4.com
+ - DOMAIN-SUFFIX,ffzy-online5.com
+ - DOMAIN-SUFFIX,ffzy-online6.com
+ - DOMAIN-SUFFIX,ffzy-online7.com
+ - DOMAIN-SUFFIX,4kvm.tv
+ - DOMAIN-SUFFIX,4kvm.net
+ - DOMAIN-SUFFIX,4kvm.site
+ - DOMAIN-SUFFIX,vplay.life
+ - DOMAIN-SUFFIX,hdzyk.com
+ - DOMAIN-SUFFIX,zykbf.com
+ - DOMAIN-SUFFIX,1080zyk.com
+ - DOMAIN-SUFFIX,yyzyplay.com
+ - DOMAIN-SUFFIX,1080zyk1.com
+ - DOMAIN-SUFFIX,1080zyk15.com
+ - DOMAIN-SUFFIX,snzy1.com
+ - DOMAIN-SUFFIX,suonizy.net
+ - DOMAIN-SUFFIX,suonizy.com
+ - DOMAIN-SUFFIX,lyhuicheng.com
+ - DOMAIN-SUFFIX,high21-playback.com
  # 挂机流量
  - DOMAIN-SUFFIX,repocket.com
  - DOMAIN-SUFFIX,honeygain.com
