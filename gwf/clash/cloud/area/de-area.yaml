@@ -25,6 +25,7 @@ payload:
  - DOMAIN-SUFFIX,bybit-global.com
  # OKX
  - DOMAIN-SUFFIX,okx.com
+ - DOMAIN-SUFFIX,cnouyi.pizza
  # Telegram Wallet
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
