@@ -84,6 +84,8 @@ payload:
  - DOMAIN-SUFFIX,hbfile.net
  - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,segment.io
+ - DOMAIN-SUFFIX,discord.gg
+ - DOMAIN-SUFFIX,discord.com
  - DOMAIN-SUFFIX,ifastgb.com
  - DOMAIN-SUFFIX,segment.com
  - DOMAIN-SUFFIX,hotmail.com
@@ -132,6 +134,7 @@ payload:
  - DOMAIN-SUFFIX,identrust.com
  - DOMAIN-SUFFIX,cookielaw.org
  - DOMAIN-SUFFIX,icloud.com.cn
+ - DOMAIN-SUFFIX,discordapp.com
  - DOMAIN-SUFFIX,trustpilot.com
  - DOMAIN-SUFFIX,bootswatch.com
  - DOMAIN-SUFFIX,cloudinary.com
