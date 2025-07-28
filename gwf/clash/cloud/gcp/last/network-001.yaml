@@ -54,6 +54,7 @@ payload:
  - DOMAIN-SUFFIX,htx.com
  - DOMAIN-SUFFIX,fpjs.io
  - DOMAIN-SUFFIX,ntp.org
+ - DOMAIN-SUFFIX,mql5.com
  - DOMAIN-SUFFIX,hket.com
  - DOMAIN-SUFFIX,wise.com
  - DOMAIN-SUFFIX,sirv.com
