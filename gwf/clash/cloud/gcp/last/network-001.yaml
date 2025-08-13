@@ -151,6 +151,7 @@ payload:
  - DOMAIN-SUFFIX,oraclecloud.com
  - DOMAIN-SUFFIX,voyagerapis.com
  - DOMAIN-SUFFIX,steamserver.net
+ - DOMAIN-SUFFIX,tortoisegit.org
  - DOMAIN-SUFFIX,letsencrypt.org
  - DOMAIN-SUFFIX,appdomain.cloud
  - DOMAIN-SUFFIX,cdninstagram.com
