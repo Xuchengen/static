@@ -31,6 +31,7 @@ payload:
  - DOMAIN-SUFFIX,okx-dns1.com
  - DOMAIN-SUFFIX,okx-dns2.com
  - DOMAIN-SUFFIX,cnouyi.pizza
+ - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
  # Telegram Wallet
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
