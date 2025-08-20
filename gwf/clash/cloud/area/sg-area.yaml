@@ -11,3 +11,8 @@ payload:
  - DOMAIN-SUFFIX,binance.charity
  # Hyperliquid
  - DOMAIN-SUFFIX,hyperliquid.xyz
+ # Talkatone
+ - DOMAIN-SUFFIX,tktn.be
+ - DOMAIN-SUFFIX,tktn.at
+ - DOMAIN-SUFFIX,tktn.me
+ - DOMAIN-SUFFIX,talkatone.com
