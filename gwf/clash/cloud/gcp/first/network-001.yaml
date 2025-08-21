@@ -34,7 +34,10 @@ payload:
  - DOMAIN-SUFFIX,jpush.okx.com
  - DOMAIN-SUFFIX,static.okx.com
  - DOMAIN-SUFFIX,jpushws.okx.com
+ - DOMAIN-SUFFIX,mywspri.okx.com
  - DOMAIN-SUFFIX,wsdexpri.okx.com
  - DOMAIN-SUFFIX,wspri.oklink.com
+ - DOMAIN-SUFFIX,static.oklink.com
  - DOMAIN-SUFFIX,wspri.okx.com.cdn.cloudflare.net
+ - DOMAIN-SUFFIX,mywspri.okx.com.cdn.cloudflare.net
  - DOMAIN-SUFFIX,wsdexpri.okx.com.cdn.cloudflare.net
