@@ -79,6 +79,11 @@ payload:
  - DOMAIN-SUFFIX,wikiversity.org
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
+ # ATAS交易软件
+ - DOMAIN-SUFFIX,atas.net
+ - DOMAIN-SUFFIX,dxfeed.com
+ - DOMAIN-SUFFIX,financialjuice.com
+ - DOMAIN-SUFFIX,orderflowtrading.net
  # 静态资源专用
  - DOMAIN-REGEX,^(cdn|static|assets|video|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
  # 中国IP
