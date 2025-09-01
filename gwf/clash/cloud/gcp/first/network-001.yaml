@@ -53,6 +53,9 @@ payload:
  - DOMAIN-SUFFIX,ws2.bybit.biz
  - DOMAIN-SUFFIX,ws2.byapis.com
  - DOMAIN-SUFFIX,ws2.byapps.net
+ - DOMAIN-SUFFIX,stream.bybit.com
+ - DOMAIN-SUFFIX,api-demo.bybit.com
+ - DOMAIN-SUFFIX,stream-demo.bybit.com
  # OKX 交易所
  - DOMAIN-SUFFIX,wspri.okx.com
  - DOMAIN-SUFFIX,jpush.okx.com
