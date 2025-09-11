@@ -83,6 +83,8 @@ payload:
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
  # ATAS交易软件
+ # 6450,6452,6472,8274
+ - DST-PORT,6450,6452,6472,8274
  - DOMAIN-SUFFIX,atas.net
  - DOMAIN-SUFFIX,dxfeed.com
  - DOMAIN-SUFFIX,financialjuice.com
