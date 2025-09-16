@@ -48,6 +48,7 @@ payload:
  - DOMAIN-SUFFIX,tiktokcdn-eu.com
  - DOMAIN-SUFFIX,v16-webapp-prime.tiktok.com
  # Bybit交易所
+ - DOMAIN-SUFFIX,api.bybit.com
  - DOMAIN-SUFFIX,ws2.bycbe.com
  - DOMAIN-SUFFIX,ws2.bybit.com
  - DOMAIN-SUFFIX,ws2.bybit.biz
