@@ -1,14 +1,5 @@
 payload:
  - DOMAIN-SUFFIX,sg
- # 币安
- - DOMAIN-SUFFIX,binance.us
- - DOMAIN-SUFFIX,binance.tr
- - DOMAIN-SUFFIX,binance.com
- - DOMAIN-SUFFIX,bntrace.com
- - DOMAIN-SUFFIX,binance.info
- - DOMAIN-SUFFIX,bnbstatic.com
- - DOMAIN-SUFFIX,binancecnt.com
- - DOMAIN-SUFFIX,binance.charity
  # Hyperliquid
  - DOMAIN-SUFFIX,hyperliquid.xyz
   # Talkatone
