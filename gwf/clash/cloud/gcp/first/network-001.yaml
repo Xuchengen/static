@@ -58,6 +58,7 @@ payload:
  - DOMAIN-SUFFIX,api-demo.bybit.com
  - DOMAIN-SUFFIX,stream-demo.bybit.com
  # OKX 交易所
+ - DOMAIN-SUFFIX,www.okx.com
  - DOMAIN-SUFFIX,ws.okx.com
  - DOMAIN-SUFFIX,wspap.okx.com
  - DOMAIN-SUFFIX,wspri.okx.com
@@ -66,6 +67,7 @@ payload:
  - DOMAIN-SUFFIX,jpushws.okx.com
  - DOMAIN-SUFFIX,mywspri.okx.com
  - DOMAIN-SUFFIX,wsdexpri.okx.com
+ - DOMAIN-SUFFIX,wspripap.okx.com
  - DOMAIN-SUFFIX,wspri.oklink.com
  - DOMAIN-SUFFIX,static.oklink.com
  - DOMAIN-SUFFIX,wspri.okx.com.cdn.cloudflare.net
