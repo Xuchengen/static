@@ -69,6 +69,10 @@ payload:
  - DOMAIN-SUFFIX,wspri.okx.com.cdn.cloudflare.net
  - DOMAIN-SUFFIX,mywspri.okx.com.cdn.cloudflare.net
  - DOMAIN-SUFFIX,wsdexpri.okx.com.cdn.cloudflare.net
+ # 币安交易所
+ - DOMAIN-SUFFIX,api.binance.com
+ - DOMAIN-SUFFIX,fapi.binance.com
+ - DOMAIN-SUFFIX,testnet.binance.vision
  # 维基百科
  - DOMAIN-SUFFIX,wikinews.org
  - DOMAIN-SUFFIX,wikidata.org
