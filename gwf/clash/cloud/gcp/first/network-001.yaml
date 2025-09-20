@@ -121,7 +121,7 @@ payload:
  # 台湾IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,TW))
  # 日本IP
- # - AND,((NOT,((GEOIP,google))),(GEOIP,JP))
+ - AND,((NOT,((GEOIP,google))),(GEOIP,JP))
  # 韩国IP
  - AND,((NOT,((GEOIP,google))),(GEOIP,KR))
  # 蒙古IP
