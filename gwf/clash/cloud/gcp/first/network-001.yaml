@@ -58,6 +58,8 @@ payload:
  - DOMAIN-SUFFIX,api-demo.bybit.com
  - DOMAIN-SUFFIX,stream-demo.bybit.com
  # OKX 交易所
+ - DOMAIN-SUFFIX,ws.okx.com
+ - DOMAIN-SUFFIX,wspap.okx.com
  - DOMAIN-SUFFIX,wspri.okx.com
  - DOMAIN-SUFFIX,jpush.okx.com
  - DOMAIN-SUFFIX,static.okx.com
