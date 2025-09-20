@@ -73,6 +73,7 @@ payload:
  - DOMAIN-SUFFIX,api.binance.com
  - DOMAIN-SUFFIX,fapi.binance.com
  - DOMAIN-SUFFIX,testnet.binance.vision
+ - DOMAIN-SUFFIX,testnet.binancefuture.com
  # 维基百科
  - DOMAIN-SUFFIX,wikinews.org
  - DOMAIN-SUFFIX,wikidata.org
