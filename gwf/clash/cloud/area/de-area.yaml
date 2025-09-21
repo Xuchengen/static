@@ -44,6 +44,7 @@ payload:
  - DOMAIN-SUFFIX,binance.com
  - DOMAIN-SUFFIX,bntrace.com
  - DOMAIN-SUFFIX,binance.info
+ - DOMAIN-SUFFIX,nftstatic.com
  - DOMAIN-SUFFIX,bnbstatic.com
  - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,binance.charity
