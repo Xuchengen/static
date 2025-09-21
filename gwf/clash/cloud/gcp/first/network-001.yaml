@@ -74,19 +74,6 @@ payload:
  - DOMAIN-SUFFIX,wspri.okx.com.cdn.cloudflare.net
  - DOMAIN-SUFFIX,mywspri.okx.com.cdn.cloudflare.net
  - DOMAIN-SUFFIX,wsdexpri.okx.com.cdn.cloudflare.net
- # 币安交易所
- - DOMAIN-SUFFIX,binance.us
- - DOMAIN-SUFFIX,binance.tr
- - DOMAIN-SUFFIX,binance.com
- - DOMAIN-SUFFIX,bntrace.com
- - DOMAIN-SUFFIX,binance.info
- - DOMAIN-SUFFIX,bnbstatic.com
- - DOMAIN-SUFFIX,binancecnt.com
- - DOMAIN-SUFFIX,binance.charity
- - DOMAIN-SUFFIX,api.binance.com
- - DOMAIN-SUFFIX,fapi.binance.com
- - DOMAIN-SUFFIX,testnet.binance.vision
- - DOMAIN-SUFFIX,testnet.binancefuture.com
  # 维基百科
  - DOMAIN-SUFFIX,wikinews.org
  - DOMAIN-SUFFIX,wikidata.org
