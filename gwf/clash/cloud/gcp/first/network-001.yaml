@@ -77,6 +77,8 @@ payload:
  # 币安交易所
  - DOMAIN-SUFFIX,api.binance.com
  - DOMAIN-SUFFIX,fapi.binance.com
+ - DOMAIN-SUFFIX,stream.binance.com
+ - DOMAIN-SUFFIX,fstream.binance.com
  - DOMAIN-SUFFIX,testnet.binance.vision
  - DOMAIN-SUFFIX,testnet.binancefuture.com
  # 维基百科
