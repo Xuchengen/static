@@ -46,10 +46,6 @@ payload:
  - DOMAIN-SUFFIX,bnbstatic.com
  - DOMAIN-SUFFIX,binancecnt.com
  - DOMAIN-SUFFIX,binance.charity
- - DOMAIN-SUFFIX,api.binance.com
- - DOMAIN-SUFFIX,fapi.binance.com
- - DOMAIN-SUFFIX,testnet.binance.vision
- - DOMAIN-SUFFIX,testnet.binancefuture.com
  # Telegram Wallet
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
