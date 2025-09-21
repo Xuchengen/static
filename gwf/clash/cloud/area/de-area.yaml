@@ -41,6 +41,7 @@ payload:
  # 币安交易所
  - DOMAIN-SUFFIX,binance.us
  - DOMAIN-SUFFIX,binance.tr
+ - DOMAIN-SUFFIX,saasexch.io
  - DOMAIN-SUFFIX,binance.com
  - DOMAIN-SUFFIX,bntrace.com
  - DOMAIN-SUFFIX,binance.info
