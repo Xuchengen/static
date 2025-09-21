@@ -37,19 +37,6 @@ payload:
  - DOMAIN-SUFFIX,d1nil3qbkxfj92.cloudfront.net
  - DOMAIN-SUFFIX,d2p7qknqur0nu9.cloudfront.net
  - DOMAIN-SUFFIX,d3f0nrrzpmxcu1.cloudfront.net
- # 币安交易所
- - DOMAIN-SUFFIX,binance.us
- - DOMAIN-SUFFIX,binance.tr
- - DOMAIN-SUFFIX,binance.com
- - DOMAIN-SUFFIX,bntrace.com
- - DOMAIN-SUFFIX,binance.info
- - DOMAIN-SUFFIX,bnbstatic.com
- - DOMAIN-SUFFIX,binancecnt.com
- - DOMAIN-SUFFIX,binance.charity
- - DOMAIN-SUFFIX,api.binance.com
- - DOMAIN-SUFFIX,fapi.binance.com
- - DOMAIN-SUFFIX,testnet.binance.vision
- - DOMAIN-SUFFIX,testnet.binancefuture.com
  # Telegram Wallet
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
