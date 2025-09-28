@@ -112,6 +112,7 @@ payload:
  - DOMAIN-SUFFIX,identrust.com
  - DOMAIN-SUFFIX,cookielaw.org
  - DOMAIN-SUFFIX,icloud.com.cn
+ - DOMAIN-SUFFIX,gocharting.com
  - DOMAIN-SUFFIX,discordapp.com
  - DOMAIN-SUFFIX,trustpilot.com
  - DOMAIN-SUFFIX,bootswatch.com
