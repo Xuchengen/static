@@ -62,6 +62,7 @@ payload:
  - DOMAIN-SUFFIX,htx.com.pk
  - DOMAIN-SUFFIX,segment.io
  - DOMAIN-SUFFIX,discord.gg
+ - DOMAIN-SUFFIX,capital.com
  - DOMAIN-SUFFIX,discord.com
  - DOMAIN-SUFFIX,ifastgb.com
  - DOMAIN-SUFFIX,segment.com
