@@ -10,6 +10,7 @@ payload:
  - DOMAIN-SUFFIX,eu.sardine.ai
  # Bybit
  - DOMAIN-SUFFIX,bymj.io
+ - DOMAIN-SUFFIX,bybit.eu
  - DOMAIN-SUFFIX,bycsi.com
  - DOMAIN-SUFFIX,bycbe.com
  - DOMAIN-SUFFIX,bybit.com
