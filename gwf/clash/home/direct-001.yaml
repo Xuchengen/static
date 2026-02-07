@@ -1,3 +1,6 @@
 # WUHAN-ZSL-HOME
 payload:
   - DOMAIN-SUFFIX,riseworks.io
+  - AND,((GEOIP,google),(DST-PORT,5228,5229,5230))
+  - AND,((GEOIP,apple),(DST-PORT,5223))
+  
