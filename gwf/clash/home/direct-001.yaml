@@ -1,6 +1,19 @@
 # WUHAN-ZSL-HOME
 payload:
+  # 进程规则
+  - PROCESS-NAME,nezha-agent
+  # 域名规则
   - DOMAIN-SUFFIX,riseworks.io
+  - DOMAIN-SUFFIX,gcp.xuchengen.cn
+  - DOMAIN-SUFFIX,oci.xuchengen.cn
+  - DOMAIN-SUFFIX,us1-ws.tls365.us.kg
+  - DOMAIN-SUFFIX,us2-ws.tls365.us.kg
+  - DOMAIN-SUFFIX,us3-ws.tls365.us.kg
+  - DOMAIN-SUFFIX,us4-ws.tls365.us.kg
+  - DOMAIN-SUFFIX,uk1-ws.ssl365.us.kg
+  - DOMAIN-SUFFIX,uk2-ws.ssl365.us.kg
+  - DOMAIN-SUFFIX,uk3-ws.ssl365.us.kg
+  - DOMAIN-SUFFIX,uk4-ws.ssl365.us.kg
+  # 条件规则
   - AND,((GEOIP,google),(DST-PORT,5228,5229,5230))
   - AND,((GEOIP,apple),(DST-PORT,5223))
-  
