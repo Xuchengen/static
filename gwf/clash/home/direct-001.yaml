@@ -15,8 +15,9 @@ payload:
  - DOMAIN-SUFFIX,uk3-ws.ssl365.us.kg
  - DOMAIN-SUFFIX,uk4-ws.ssl365.us.kg
  # 条件规则
- - AND,((GEOIP,google),(DST-PORT,5228,5229,5230))
- - AND,((GEOIP,apple),(DST-PORT,5223))
- - AND,((IP-ASN,apple),(DST-PORT,5223))
- - AND,((DOMAIN-SUFFIX,push.apple.com),(DST-PORT,5223))
+ #- AND,((GEOIP,google),(DST-PORT,5228,5229,5230))
+ #- AND,((GEOIP,apple),(DST-PORT,5223))
+ #- AND,((IP-ASN,apple),(DST-PORT,5223))
+ #- AND,((DOMAIN-SUFFIX,push.apple.com),(DST-PORT,5223))
+ - AND,((DOMAIN-REGEX,^(alt[1-8]-)?mtalk([0-9]+|-staging|-dev)?\.google\.com$),(DST-PORT,5228,5229,5230))
  
