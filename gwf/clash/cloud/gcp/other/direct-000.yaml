@@ -1,0 +1,7 @@
+payload:
+ # DNS直连
+ - IP-CIDR,1.1.1.1/32
+ - IP-CIDR,1.0.0.1/32
+ - IP-CIDR,8.8.8.8/32
+ - IP-CIDR,8.8.4.4/32
+ 

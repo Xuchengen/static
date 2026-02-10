@@ -1,0 +1,4 @@
+payload:
+ # 屏蔽油管视频QUIC协议
+ - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
+ 
