@@ -126,7 +126,6 @@ payload:
  - DOMAIN-SUFFIX,ownbank.com.ph
  - DOMAIN-SUFFIX,cloudfront.net
  - DOMAIN-SUFFIX,pepperstone.com
- - DOMAIN-SUFFIX,tradingview.com
  - DOMAIN-SUFFIX,fontawesome.com
  - DOMAIN-SUFFIX,oraclecloud.com
  - DOMAIN-SUFFIX,voyagerapis.com
