@@ -1,5 +1,7 @@
 payload:
  # 域名规则
+ # 金融交易软件
+ - DOMAIN-SUFFIX,fxcorporate.com
  - DOMAIN-SUFFIX,tradingview.com
  - DOMAIN-SUFFIX,ninjatrader.com
  - DOMAIN-SUFFIX,tradovateapi.com

@@ -99,6 +99,7 @@ payload:
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
  # 金融交易软件
+ - DOMAIN-SUFFIX,fxcorporate.com
  - DOMAIN-SUFFIX,tradingview.com
  - DOMAIN-SUFFIX,ninjatrader.com
  - DOMAIN-SUFFIX,tradovateapi.com
