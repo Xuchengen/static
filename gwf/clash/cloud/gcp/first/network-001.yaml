@@ -98,6 +98,10 @@ payload:
  - DOMAIN-SUFFIX,wikiversity.org
  - DOMAIN-SUFFIX,wikifunctions.org
  - DOMAIN-SUFFIX,wikimediafoundation.org
+ # 金融交易软件
+ - DOMAIN-SUFFIX,tradingview.com
+ - DOMAIN-SUFFIX,ninjatrader.com
+ - DOMAIN-SUFFIX,tradovateapi.com
  # ATAS交易软件
  # 6450,6452,6472,8274
  - DST-PORT,6450,6452,6472,8274

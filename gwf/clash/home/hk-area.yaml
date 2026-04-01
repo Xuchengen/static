@@ -1,4 +1,6 @@
 payload:
  # 域名规则
- - DOMAIN-SUFFIX,fffffffffffff.com
+ - DOMAIN-SUFFIX,tradingview.com
+ - DOMAIN-SUFFIX,ninjatrader.com
+ - DOMAIN-SUFFIX,tradovateapi.com
  
