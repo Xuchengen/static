@@ -3,7 +3,7 @@ payload:
  # 进程规则
  - PROCESS-NAME,nezha-agent
  # 域名规则
- - DOMAIN-SUFFIX,riseworks.io
+ # 自有域名
  - DOMAIN-SUFFIX,gcp.xuchengen.cn
  - DOMAIN-SUFFIX,oci.xuchengen.cn
  - DOMAIN-SUFFIX,us1-ws.tls365.us.kg
@@ -14,6 +14,9 @@ payload:
  - DOMAIN-SUFFIX,uk2-ws.ssl365.us.kg
  - DOMAIN-SUFFIX,uk3-ws.ssl365.us.kg
  - DOMAIN-SUFFIX,uk4-ws.ssl365.us.kg
+ # 外部域名
+ - DOMAIN-SUFFIX,riseworks.io
+ - DOMAIN-SUFFIX,lucidtrading.com
  # 条件规则
  - AND,((GEOIP,google),(DST-PORT,5228,5229,5230))
  - AND,((GEOIP,apple),(DST-PORT,5223))
