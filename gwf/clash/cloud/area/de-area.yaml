@@ -61,5 +61,6 @@ payload:
  - DOMAIN-SUFFIX,sumup.io
  - DOMAIN-SUFFIX,fiat24.com
  - DOMAIN-SUFFIX,web3auth.io
+ - DOMAIN-SUFFIX,alchemy.com
  - DOMAIN-SUFFIX,coinbase.com
  
