@@ -59,8 +59,10 @@ payload:
  - DOMAIN-SUFFIX,ka.app
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
+ - DOMAIN-SUFFIX,infura.io
  - DOMAIN-SUFFIX,fiat24.com
  - DOMAIN-SUFFIX,web3auth.io
+ - DOMAIN-SUFFIX,metamask.io
  - DOMAIN-SUFFIX,alchemy.com
  - DOMAIN-SUFFIX,coinbase.com
  
