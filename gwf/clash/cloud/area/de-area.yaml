@@ -67,6 +67,7 @@ payload:
  - DOMAIN-SUFFIX,metamask.io
  - DOMAIN-SUFFIX,alchemy.com
  - DOMAIN-SUFFIX,coinbase.com
+ - DOMAIN-SUFFIX,walletconnect.org
   # Talkatone
  - DOMAIN-SUFFIX,tktn.be
  - DOMAIN-SUFFIX,tktn.at
