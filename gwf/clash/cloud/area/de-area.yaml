@@ -55,6 +55,8 @@ payload:
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
+ # Hyperliquid
+ - DOMAIN-SUFFIX,hyperliquid.xyz
  # 其他
  - DOMAIN-SUFFIX,ka.app
  - DOMAIN-SUFFIX,nash.io
@@ -65,4 +67,9 @@ payload:
  - DOMAIN-SUFFIX,metamask.io
  - DOMAIN-SUFFIX,alchemy.com
  - DOMAIN-SUFFIX,coinbase.com
+  # Talkatone
+ - DOMAIN-SUFFIX,tktn.be
+ - DOMAIN-SUFFIX,tktn.at
+ - DOMAIN-SUFFIX,tktn.me
+ - DOMAIN-SUFFIX,talkatone.com
  
