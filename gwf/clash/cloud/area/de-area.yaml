@@ -59,7 +59,6 @@ payload:
  - DOMAIN-SUFFIX,ka.app
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
- - DOMAIN-SUFFIX,alchemy.com
  - DOMAIN-SUFFIX,coinbase.com
  - DOMAIN-SUFFIX,walletconnect.org
   # Talkatone
