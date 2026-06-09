@@ -3,5 +3,3 @@ payload:
  - DOMAIN-SUFFIX,gov
  - DOMAIN-SUFFIX,mil
  - DOMAIN-SUFFIX,edu
- # Coinbase钱包
- - DOMAIN-SUFFIX,wallet.coinbase.com
