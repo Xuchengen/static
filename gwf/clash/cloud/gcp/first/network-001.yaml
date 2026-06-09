@@ -63,6 +63,7 @@ payload:
  - DOMAIN-SUFFIX,wspap.okx.com
  - DOMAIN-SUFFIX,wspri.okx.com
  - DOMAIN-SUFFIX,jpush.okx.com
+ - DOMAIN-SUFFIX,wseea.okx.com
  - DOMAIN-SUFFIX,static.okx.com
  - DOMAIN-SUFFIX,jpushws.okx.com
  - DOMAIN-SUFFIX,mywspri.okx.com
