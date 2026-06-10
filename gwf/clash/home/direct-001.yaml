@@ -6,6 +6,7 @@ payload:
  # 自有域名
  - DOMAIN-SUFFIX,gcp.xuchengen.cn
  - DOMAIN-SUFFIX,oci.xuchengen.cn
+ - DOMAIN-SUFFIX,cloud.xuchengen.cn
  - DOMAIN-SUFFIX,us1-ws.tls365.us.kg
  - DOMAIN-SUFFIX,us2-ws.tls365.us.kg
  - DOMAIN-SUFFIX,us3-ws.tls365.us.kg
