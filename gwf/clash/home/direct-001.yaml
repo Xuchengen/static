@@ -15,6 +15,7 @@ payload:
  - DOMAIN-SUFFIX,uk2-ws.ssl365.us.kg
  - DOMAIN-SUFFIX,uk3-ws.ssl365.us.kg
  - DOMAIN-SUFFIX,uk4-ws.ssl365.us.kg
+ - DOMAIN-SUFFIX,hk01-cloud.xuchengen.eu.org
  # 外部域名
  - DOMAIN-SUFFIX,topstep.com
  - DOMAIN-SUFFIX,riseworks.io
