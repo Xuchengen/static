@@ -6,17 +6,8 @@ payload:
  # 自有域名
  - DOMAIN-SUFFIX,gcp.xuchengen.cn
  - DOMAIN-SUFFIX,oci.xuchengen.cn
+ - DOMAIN-SUFFIX,xuchengen.eu.org
  - DOMAIN-SUFFIX,cloud.xuchengen.cn
- - DOMAIN-SUFFIX,us1-ws.tls365.us.kg
- - DOMAIN-SUFFIX,us2-ws.tls365.us.kg
- - DOMAIN-SUFFIX,us3-ws.tls365.us.kg
- - DOMAIN-SUFFIX,us4-ws.tls365.us.kg
- - DOMAIN-SUFFIX,uk1-ws.ssl365.us.kg
- - DOMAIN-SUFFIX,uk2-ws.ssl365.us.kg
- - DOMAIN-SUFFIX,uk3-ws.ssl365.us.kg
- - DOMAIN-SUFFIX,uk4-ws.ssl365.us.kg
- - DOMAIN-SUFFIX,sg01.cloud.xuchengen.cn
- - DOMAIN-SUFFIX,sg01-cloud.xuchengen.eu.org
  # 外部域名
  - DOMAIN-SUFFIX,topstep.com
  - DOMAIN-SUFFIX,riseworks.io

@@ -6,4 +6,6 @@ payload:
  - DOMAIN-SUFFIX,tradingview.com
  - DOMAIN-SUFFIX,ninjatrader.com
  - DOMAIN-SUFFIX,tradovateapi.com
+ # 云主机厂商
+ - DOMAIN-SUFFIX,gigsgigscloud.com
  
