@@ -40,6 +40,9 @@ payload:
  # LemFi
  - DOMAIN-SUFFIX,lemfi.com
  - DOMAIN-SUFFIX,lemonade.finance
+ # Plasma
+ - DOMAIN-SUFFIX,plasma.to
+ - DOMAIN-SUFFIX,plasma-one.tech
  # Other
  - DOMAIN-SUFFIX,nala.com
  - DOMAIN-SUFFIX,myfin.bg
