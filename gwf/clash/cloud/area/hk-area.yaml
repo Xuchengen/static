@@ -1,8 +1,4 @@
 payload:
- # Hyperliquid
- - DOMAIN-SUFFIX,hyperliquid.xyz
- # 其他
- - DOMAIN-SUFFIX,infura.io
- - DOMAIN-SUFFIX,fiat24.com
- - DOMAIN-SUFFIX,web3auth.io
- - DOMAIN-SUFFIX,metamask.io
+ # 域名规则
+ - DOMAIN-SUFFIX,xxxxxxxxxxxx.io
+

@@ -1,4 +1,11 @@
 payload:
  # 域名规则
- - DOMAIN-SUFFIX,sssssssssss.ai
+ # 金融交易软件
+ - DOMAIN-SUFFIX,cdnfx.net
+ - DOMAIN-SUFFIX,fxcorporate.com
+ - DOMAIN-SUFFIX,tradingview.com
+ - DOMAIN-SUFFIX,ninjatrader.com
+ - DOMAIN-SUFFIX,tradovateapi.com
+ # 云主机厂商
+ - DOMAIN-SUFFIX,gigsgigscloud.com
  
