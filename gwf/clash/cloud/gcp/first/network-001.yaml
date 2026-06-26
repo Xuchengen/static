@@ -115,6 +115,8 @@ payload:
  - DOMAIN-SUFFIX,aggr.trade
  - DOMAIN-SUFFIX,coinalyze.net
  - DOMAIN-SUFFIX,coinglass.com
+ # Cloudflare验证
+ - DOMAIN-SUFFIX,challenges.cloudflare.com
  # 静态资源专用
  - DOMAIN-REGEX,^(cdn|static|assets|video|media|img|imgs|image|images|js|css|file|files|script|scripts|font|fonts|dl|download|downloads)\.[^.]+\..+$
  # 中国IP

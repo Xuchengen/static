@@ -5,6 +5,4 @@ payload:
  - DOMAIN-SUFFIX,edu
  # Coinbase
  - DOMAIN-SUFFIX,coinbase.com
- # Cloudflare验证
- - DOMAIN-SUFFIX,challenges.cloudflare.com
  
