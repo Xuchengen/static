@@ -85,6 +85,8 @@ payload:
  - DOMAIN-SUFFIX,nbstream.binance.com
  - DOMAIN-SUFFIX,testnet.binance.vision
  - DOMAIN-SUFFIX,testnet.binancefuture.com
+ # 币记交易所
+ - DOMAIN-SUFFIX,stream.bitget.com
  # 维基百科
  - DOMAIN-SUFFIX,wikinews.org
  - DOMAIN-SUFFIX,wikidata.org

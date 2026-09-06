@@ -57,6 +57,7 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
  # Bitget Wallet
+ - DOMAIN-SUFFIX,bitget.com
  - DOMAIN-SUFFIX,bwb.online
  - DOMAIN-SUFFIX,bitkeep.com
  - DOMAIN-SUFFIX,bitkeep.top
