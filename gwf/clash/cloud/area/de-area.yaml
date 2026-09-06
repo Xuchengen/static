@@ -56,6 +56,14 @@ payload:
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
+ # Bitget Wallet
+ - bwb.online
+ - bitkeep.com
+ - bitkeep.top
+ - bitkeep.life
+ - vrenthaliox.site
+ - klorvenathix.pro
+ - brindovaxel.online
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
