@@ -57,13 +57,13 @@ payload:
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
  # Bitget Wallet
- - bwb.online
- - bitkeep.com
- - bitkeep.top
- - bitkeep.life
- - vrenthaliox.site
- - klorvenathix.pro
- - brindovaxel.online
+ - DOMAIN-SUFFIX,bwb.online
+ - DOMAIN-SUFFIX,bitkeep.com
+ - DOMAIN-SUFFIX,bitkeep.top
+ - DOMAIN-SUFFIX,bitkeep.life
+ - DOMAIN-SUFFIX,vrenthaliox.site
+ - DOMAIN-SUFFIX,klorvenathix.pro
+ - DOMAIN-SUFFIX,brindovaxel.online
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
