@@ -58,6 +58,7 @@ payload:
  - DOMAIN-SUFFIX,walletteam.org
  # Bitget交易所
  - DOMAIN-SUFFIX,bitget.com
+ - DOMAIN-SUFFIX,bwb.online
  - DOMAIN-SUFFIX,quorbentaxil.cc
  # 其他
  - DOMAIN-SUFFIX,nash.io
