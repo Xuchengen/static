@@ -56,8 +56,9 @@ payload:
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
- # Bitget Wallet
+ # Bitget交易所
  - DOMAIN-SUFFIX,bitget.com
+ - DOMAIN-SUFFIX,quorbentaxil.cc
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
