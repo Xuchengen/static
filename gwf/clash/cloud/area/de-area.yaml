@@ -59,6 +59,7 @@ payload:
  # Bitget交易所（合约市场）
  - DOMAIN-SUFFIX,bitget.com
  - DOMAIN-SUFFIX,quorbentaxil.cc
+ - DOMAIN-SUFFIX,vrenthaliox.site
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
