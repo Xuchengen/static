@@ -2,4 +2,6 @@ payload:
  - DOMAIN-SUFFIX,ca
  # koho
  - DOMAIN-SUFFIX,koho.ca
+ # Bitget交易所（预测市场）
+ - DOMAIN-SUFFIX,bwb.online
  
