@@ -56,6 +56,19 @@ payload:
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
+ # Bitget交易所
+ - DOMAIN-SUFFIX,bitget.com
+ - DOMAIN-SUFFIX,bgw.live
+ - DOMAIN-SUFFIX,bgw.world
+ - DOMAIN-SUFFIX,bwb.online
+ - DOMAIN-SUFFIX,bwb.global
+ - DOMAIN-SUFFIX,quorbentaxil.cc
+ - DOMAIN-SUFFIX,drexaphongil.io
+ - DOMAIN-SUFFIX,vrenthaliox.site
+ - DOMAIN-SUFFIX,klorvenathix.pro
+ - DOMAIN-SUFFIX,zaltrimondex.xyz
+ - DOMAIN-SUFFIX,fluvenkarthon.info
+ - DOMAIN-SUFFIX,brindovaxel.online
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
