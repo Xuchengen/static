@@ -56,6 +56,8 @@ payload:
  - DOMAIN-SUFFIX,tonapi.io
  - DOMAIN-SUFFIX,walletbot.me
  - DOMAIN-SUFFIX,walletteam.org
+ # Rabby Wallet
+ - DOMAIN-SUFFIX,rabby.io
  # 其他
  - DOMAIN-SUFFIX,nash.io
  - DOMAIN-SUFFIX,sumup.io
